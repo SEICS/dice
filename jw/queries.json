@@ -1,0 +1,13139 @@
+[
+  {
+    "iAvail": [
+      0
+    ],
+    "iClass": [
+      0
+    ],
+    "iKorean": [
+      0,
+      1
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iRrelchld": [
+      0
+    ]
+  },
+  {
+    "dIncome5": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iEnglish": [
+      0
+    ],
+    "iMarital": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "dRearning": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      6
+    ],
+    "iYearsch": [
+      2,
+      0,
+      4,
+      7,
+      8,
+      6,
+      9,
+      15,
+      5,
+      11,
+      14
+    ]
+  },
+  {
+    "dIncome2": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "dRearning": [
+      2,
+      1,
+      0,
+      5
+    ],
+    "iSex": [
+      0
+    ],
+    "iTmpabsnt": [
+      1
+    ]
+  },
+  {
+    "dAncstry1": [
+      0
+    ],
+    "dAncstry2": [
+      0
+    ],
+    "iFertil": [
+      1,
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iWork89": [
+      0,
+      2
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      3,
+      4,
+      5,
+      8,
+      7,
+      6,
+      10,
+      11
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      6,
+      5
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRemplpar": [
+      0,
+      2,
+      3,
+      7,
+      1,
+      8,
+      4,
+      9,
+      11,
+      10,
+      15,
+      14,
+      12,
+      13
+    ],
+    "iWork89": [
+      0,
+      2
+    ],
+    "iYearsch": [
+      1,
+      0,
+      12,
+      13
+    ]
+  },
+  {
+    "iImmigr": [
+      0
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "dIndustry": [
+      7,
+      1,
+      10
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRagechld": [
+      1
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iRspouse": [
+      4,
+      2,
+      3,
+      5,
+      6
+    ],
+    "iSchool": [
+      0,
+      1,
+      3
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "dIncome1": [
+      1,
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iWork89": [
+      1
+    ]
+  },
+  {
+    "iDisabl1": [
+      0,
+      1,
+      2
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dHispanic": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iRspouse": [
+      0
+    ],
+    "iWorklwk": [
+      0
+    ],
+    "iWWII": [
+      0
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      4,
+      7,
+      8,
+      6,
+      9,
+      12,
+      15,
+      11,
+      13,
+      14
+    ],
+    "iYearwrk": [
+      0,
+      2,
+      4,
+      6,
+      3,
+      7,
+      5
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "iFertil": [
+      0
+    ],
+    "dHours": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      1,
+      2,
+      8,
+      6,
+      5,
+      4,
+      11
+    ],
+    "iLang1": [
+      0
+    ],
+    "iMobility": [
+      1
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iRspouse": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dIncome5": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "dTravtime": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0,
+      4
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRemplpar": [
+      0,
+      1
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSchool": [
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ],
+    "dTravtime": [
+      5,
+      4
+    ]
+  },
+  {
+    "iMobility": [
+      1,
+      0,
+      2
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      2,
+      4,
+      5,
+      6
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iRagechld": [
+      1
+    ],
+    "dRearning": [
+      2,
+      1,
+      0,
+      5
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dHour89": [
+      1
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "dPoverty": [
+      0,
+      1
+    ],
+    "iRiders": [
+      1,
+      2
+    ],
+    "iYearsch": [
+      6,
+      9
+    ],
+    "iYearwrk": [
+      0
+    ]
+  },
+  {
+    "iKorean": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRagechld": [
+      1
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "dWeek89": [
+      0
+    ],
+    "iWork89": [
+      0,
+      1,
+      2
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "iSchool": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "dIncome1": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "dIncome2": [
+      0,
+      1
+    ],
+    "dIncome4": [
+      0
+    ],
+    "iMeans": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      7,
+      11,
+      10,
+      8,
+      12
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      6,
+      1,
+      2,
+      3,
+      5,
+      4
+    ],
+    "iEnglish": [
+      1,
+      0,
+      2
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iRelat1": [
+      2,
+      1
+    ],
+    "iWork89": [
+      0,
+      1
+    ],
+    "iWorklwk": [
+      0
+    ]
+  },
+  {
+    "dHours": [
+      3,
+      0,
+      5
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "iSex": [
+      1
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "dOccup": [
+      1,
+      0,
+      2
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ]
+  },
+  {
+    "dHour89": [
+      1,
+      4
+    ],
+    "iImmigr": [
+      0,
+      2,
+      1,
+      7,
+      3,
+      9,
+      5,
+      8
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iRemplpar": [
+      0,
+      2,
+      3,
+      7,
+      1,
+      8,
+      4,
+      9,
+      11,
+      10,
+      15,
+      14,
+      12,
+      13
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iRagechld": [
+      1,
+      4
+    ],
+    "dRearning": [
+      2,
+      1,
+      0,
+      5
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ]
+  },
+  {
+    "iImmigr": [
+      0,
+      1
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ]
+  },
+  {
+    "dHispanic": [
+      0
+    ],
+    "dOccup": [
+      1
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      2,
+      1,
+      0,
+      6
+    ],
+    "dDepart": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      1,
+      2,
+      8,
+      5,
+      4
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "dRearning": [
+      0
+    ],
+    "iRelat1": [
+      1,
+      6,
+      5,
+      10,
+      4,
+      3,
+      13,
+      11
+    ]
+  },
+  {
+    "dAge": [
+      1
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iSchool": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ]
+  },
+  {
+    "dOccup": [
+      4,
+      1,
+      6,
+      0,
+      2,
+      5
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ],
+    "iYearwrk": [
+      0,
+      1,
+      6,
+      3,
+      7
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      0,
+      3,
+      5
+    ],
+    "dIncome7": [
+      0
+    ],
+    "dIndustry": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iSex": [
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dRearning": [
+      2,
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "iMarital": [
+      1
+    ],
+    "iMeans": [
+      1,
+      2,
+      4,
+      5,
+      9,
+      7,
+      11,
+      10,
+      8,
+      12
+    ],
+    "iMobility": [
+      0
+    ],
+    "iRrelchld": [
+      1
+    ],
+    "iSchool": [
+      0,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dIncome1": [
+      2
+    ],
+    "iMarital": [
+      1
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iSchool": [
+      0,
+      1
+    ]
+  },
+  {
+    "iImmigr": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRiders": [
+      0
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iYearsch": [
+      0,
+      7,
+      6,
+      9,
+      11
+    ]
+  },
+  {
+    "dIncome2": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iWWII": [
+      0,
+      1
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "dWeek89": [
+      0
+    ]
+  },
+  {
+    "dHours": [
+      1,
+      3,
+      0,
+      5
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iYearsch": [
+      1,
+      0,
+      7,
+      6,
+      12,
+      11
+    ]
+  },
+  {
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      1,
+      5,
+      6
+    ],
+    "iTmpabsnt": [
+      0
+    ],
+    "iWorklwk": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dHour89": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      6
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iWWII": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "iCitizen": [
+      0
+    ],
+    "iDisabl2": [
+      0,
+      2
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "dTravtime": [
+      3,
+      0
+    ]
+  },
+  {
+    "dIncome1": [
+      1,
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iMobillim": [
+      0
+    ],
+    "dRpincome": [
+      2,
+      0,
+      1,
+      5
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dIncome2": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "iRemplpar": [
+      0,
+      2,
+      3,
+      7,
+      1,
+      8,
+      6,
+      4,
+      5,
+      9,
+      11,
+      10,
+      15,
+      14,
+      12,
+      13
+    ],
+    "iRspouse": [
+      4,
+      0,
+      6
+    ],
+    "iSept80": [
+      0
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dIndustry": [
+      1,
+      2,
+      8,
+      4
+    ],
+    "iLooking": [
+      0,
+      2
+    ],
+    "dRpincome": [
+      2,
+      3
+    ],
+    "iWWII": [
+      0,
+      1
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "dRpincome": [
+      2,
+      0,
+      3
+    ],
+    "iSex": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "iDisabl2": [
+      0,
+      2
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iMobility": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRiders": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome6": [
+      0,
+      1
+    ],
+    "iLang1": [
+      1,
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iWorklwk": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "dHours": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iMarital": [
+      1
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iTmpabsnt": [
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "dIncome5": [
+      0,
+      1
+    ],
+    "dTravtime": [
+      3,
+      5,
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iLooking": [
+      0
+    ],
+    "dOccup": [
+      1,
+      0,
+      2
+    ],
+    "dPOB": [
+      0
+    ],
+    "dRpincome": [
+      3
+    ],
+    "iRspouse": [
+      0,
+      1
+    ],
+    "dTravtime": [
+      1,
+      3,
+      5,
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIndustry": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "dTravtime": [
+      3,
+      0
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dDepart": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      1,
+      2,
+      8,
+      6,
+      5,
+      4,
+      11
+    ],
+    "iRagechld": [
+      1
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3,
+      5
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "dPOB": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iYearsch": [
+      4
+    ]
+  },
+  {
+    "dAncstry1": [
+      1,
+      3,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "dDepart": [
+      1,
+      3,
+      5
+    ],
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "dRearning": [
+      0
+    ],
+    "iSchool": [
+      0,
+      1
+    ],
+    "dWeek89": [
+      2
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      0,
+      6
+    ],
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iAvail": [
+      0
+    ],
+    "dHours": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iLang1": [
+      1,
+      0
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      1
+    ],
+    "dHours": [
+      1,
+      3,
+      4,
+      0,
+      5
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "iWWII": [
+      0
+    ],
+    "iYearsch": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iRelat2": [
+      0,
+      4
+    ],
+    "iRspouse": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "dTravtime": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iWork89": [
+      2
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dHour89": [
+      5,
+      2,
+      1,
+      4
+    ],
+    "dHours": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      2
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      2
+    ],
+    "iSchool": [
+      1
+    ],
+    "iWork89": [
+      0,
+      2
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "dIncome1": [
+      1,
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "iEnglish": [
+      1,
+      0,
+      2
+    ],
+    "iFeb55": [
+      0,
+      1
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iWorklwk": [
+      1
+    ],
+    "iYearsch": [
+      2,
+      7,
+      6,
+      9,
+      11
+    ]
+  },
+  {
+    "dAge": [
+      2,
+      0,
+      6
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dHispanic": [
+      0,
+      6,
+      1,
+      4,
+      2,
+      5,
+      9
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRspouse": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iEnglish": [
+      1,
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dHours": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome6": [
+      0,
+      1
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "dOccup": [
+      4,
+      1,
+      6,
+      0,
+      3,
+      2,
+      5
+    ],
+    "iRPOB": [
+      0
+    ]
+  },
+  {
+    "iImmigr": [
+      0
+    ],
+    "iMobility": [
+      0
+    ],
+    "dOccup": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ],
+    "dYrsserv": [
+      0,
+      1
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      2
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iSept80": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ],
+    "iWWII": [
+      0
+    ],
+    "iYearsch": [
+      1,
+      0,
+      12,
+      3,
+      13
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      2,
+      1,
+      0,
+      6
+    ],
+    "dPoverty": [
+      0,
+      1
+    ],
+    "iRiders": [
+      1
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iWork89": [
+      1
+    ],
+    "iYearsch": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iCitizen": [
+      0
+    ],
+    "iFertil": [
+      0
+    ],
+    "iSchool": [
+      1
+    ],
+    "iSept80": [
+      0
+    ],
+    "dTravtime": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      3
+    ]
+  },
+  {
+    "dHispanic": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "dIncome7": [
+      0,
+      1
+    ],
+    "dIncome8": [
+      0
+    ],
+    "dRpincome": [
+      2,
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      3,
+      1,
+      6
+    ],
+    "dTravtime": [
+      3,
+      5,
+      0,
+      2,
+      4
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dHispanic": [
+      0,
+      6,
+      1,
+      2
+    ],
+    "dIncome1": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dIncome1": [
+      1,
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iPerscare": [
+      0,
+      2
+    ],
+    "iWork89": [
+      0,
+      1
+    ]
+  },
+  {
+    "dHour89": [
+      0
+    ],
+    "dIncome1": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      1,
+      2,
+      8,
+      5,
+      4
+    ],
+    "iLang1": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMeans": [
+      1
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iSex": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iMobillim": [
+      1,
+      2
+    ],
+    "iSex": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      0,
+      6
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRPOB": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSchool": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      0,
+      6
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "dOccup": [
+      0
+    ],
+    "iRPOB": [
+      2,
+      3,
+      1,
+      5
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dHour89": [
+      5,
+      2,
+      1,
+      0,
+      3,
+      4
+    ],
+    "iMilitary": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "dOccup": [
+      4,
+      1,
+      0,
+      2
+    ],
+    "iPerscare": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "dRearning": [
+      2,
+      1,
+      0,
+      5
+    ],
+    "iRPOB": [
+      2,
+      1,
+      6,
+      5,
+      7,
+      8,
+      11,
+      9,
+      10,
+      13,
+      12
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iWork89": [
+      0,
+      1
+    ]
+  },
+  {
+    "iMay75880": [
+      0
+    ],
+    "iSex": [
+      1
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      4
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "dHour89": [
+      2,
+      1,
+      0,
+      4
+    ],
+    "dIncome5": [
+      0,
+      1
+    ],
+    "iKorean": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      1,
+      2
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "dIndustry": [
+      7,
+      1,
+      2,
+      4
+    ],
+    "iMarital": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "dPoverty": [
+      0,
+      1
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "iRelat1": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iLang1": [
+      1,
+      0,
+      2
+    ],
+    "dOccup": [
+      0,
+      2
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iSex": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      1,
+      2,
+      8,
+      5,
+      4
+    ],
+    "iLang1": [
+      0
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0,
+      2,
+      1,
+      3,
+      4
+    ],
+    "dDepart": [
+      0
+    ],
+    "iDisabl2": [
+      1,
+      2
+    ],
+    "iImmigr": [
+      0,
+      1
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "dOccup": [
+      0,
+      2
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "iImmigr": [
+      0
+    ],
+    "dIncome1": [
+      2
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIncome6": [
+      0,
+      1
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iMobility": [
+      0,
+      2
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "dIncome1": [
+      1
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ],
+    "iRspouse": [
+      0
+    ],
+    "dTravtime": [
+      3,
+      5,
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iLang1": [
+      1,
+      0
+    ],
+    "iSchool": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iWork89": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "dIncome1": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "dRearning": [
+      1,
+      0,
+      5
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      1
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dHour89": [
+      2,
+      1,
+      0,
+      4
+    ],
+    "iRelat2": [
+      0
+    ],
+    "dWeek89": [
+      2,
+      0
+    ]
+  },
+  {
+    "dIncome6": [
+      0
+    ],
+    "dIndustry": [
+      7,
+      1,
+      2,
+      8,
+      5,
+      4
+    ],
+    "iLooking": [
+      0
+    ],
+    "iRagechld": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      1,
+      5,
+      6
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ],
+    "iWorklwk": [
+      0
+    ],
+    "iYearsch": [
+      1,
+      0,
+      7,
+      11
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      2,
+      4,
+      3,
+      5
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      3
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iMilitary": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRPOB": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "dWeek89": [
+      2
+    ],
+    "iWork89": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "dHours": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "dRearning": [
+      0
+    ],
+    "dRpincome": [
+      2,
+      0,
+      1,
+      3,
+      4,
+      5
+    ],
+    "iSchool": [
+      0,
+      1
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iRspouse": [
+      0,
+      1
+    ],
+    "iRvetserv": [
+      0,
+      5,
+      8,
+      3,
+      2,
+      4,
+      6,
+      9,
+      7,
+      11
+    ],
+    "iYearsch": [
+      2,
+      0,
+      4,
+      7,
+      6,
+      9,
+      11
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dIncome2": [
+      0,
+      1
+    ],
+    "iMay75880": [
+      0
+    ],
+    "dRearning": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iWorklwk": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      0
+    ],
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "iSept80": [
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ]
+  },
+  {
+    "dIncome5": [
+      0
+    ],
+    "dPOB": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3
+    ],
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iClass": [
+      1
+    ],
+    "dPOB": [
+      0
+    ],
+    "iSex": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      4,
+      2
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "dIncome4": [
+      1,
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      6,
+      11
+    ],
+    "dRpincome": [
+      2,
+      0,
+      1,
+      5
+    ],
+    "iSept80": [
+      0
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iYearsch": [
+      1,
+      0,
+      7,
+      6,
+      12,
+      11,
+      13
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "dOccup": [
+      4,
+      1,
+      0,
+      2
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ],
+    "iSchool": [
+      0
+    ],
+    "iWWII": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dHispanic": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iSex": [
+      0,
+      1
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iClass": [
+      1,
+      0
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "iLang1": [
+      1,
+      0,
+      2
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iWork89": [
+      0,
+      2
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1,
+      2
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "dHours": [
+      1,
+      4,
+      2
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "dAncstry2": [
+      1,
+      2
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iFertil": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iRlabor": [
+      0
+    ],
+    "iYearsch": [
+      0,
+      11
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome8": [
+      0,
+      1
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      2,
+      8,
+      6,
+      5,
+      11
+    ],
+    "iLang1": [
+      1,
+      0,
+      2
+    ],
+    "iMobility": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      3,
+      6
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "iMeans": [
+      1
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iRemplpar": [
+      0,
+      1
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "iRagechld": [
+      0
+    ],
+    "iRPOB": [
+      1
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iYearwrk": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      3,
+      4,
+      7,
+      6,
+      11
+    ],
+    "dDepart": [
+      0
+    ],
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iMobility": [
+      0,
+      2
+    ],
+    "iRiders": [
+      0
+    ],
+    "iSchool": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      6,
+      1,
+      0,
+      2,
+      3,
+      5,
+      4
+    ],
+    "dDepart": [
+      0,
+      3,
+      5
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0,
+      2
+    ],
+    "iRvetserv": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dIndustry": [
+      1,
+      2,
+      8,
+      5,
+      4
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2
+    ],
+    "dYrsserv": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAge": [
+      2,
+      0,
+      6
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dIncome1": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMilitary": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRagechld": [
+      0
+    ],
+    "iWork89": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "dIncome1": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      6
+    ],
+    "iWork89": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iRownchld": [
+      1
+    ],
+    "iYearsch": [
+      1,
+      0,
+      7,
+      6,
+      9,
+      12,
+      3,
+      11,
+      13
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0
+    ],
+    "dHour89": [
+      2,
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "iRelat2": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "iMarital": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iWork89": [
+      0,
+      1
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      7,
+      3,
+      5,
+      6
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iWork89": [
+      0,
+      2
+    ]
+  },
+  {
+    "iMobility": [
+      1
+    ],
+    "dOccup": [
+      0,
+      2
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "dTravtime": [
+      3,
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "dDepart": [
+      1,
+      0,
+      3,
+      5
+    ],
+    "dIncome7": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "dOccup": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iKorean": [
+      0
+    ],
+    "dRearning": [
+      2,
+      1,
+      0,
+      5
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ]
+  },
+  {
+    "dHispanic": [
+      0
+    ],
+    "iMeans": [
+      1
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      7,
+      6,
+      9,
+      12,
+      3,
+      11,
+      13
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "dIncome1": [
+      1,
+      0
+    ],
+    "iMilitary": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "dOccup": [
+      0
+    ],
+    "iRlabor": [
+      2
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      4,
+      2,
+      0,
+      3,
+      5
+    ],
+    "dHour89": [
+      5,
+      2,
+      1,
+      3,
+      4
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iRiders": [
+      1,
+      0,
+      2
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ],
+    "iSchool": [
+      0,
+      1
+    ],
+    "iSept80": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ],
+    "iYearwrk": [
+      0,
+      3,
+      7
+    ]
+  },
+  {
+    "dAncstry1": [
+      1,
+      3,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iClass": [
+      1,
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "dPOB": [
+      0,
+      2,
+      1,
+      5,
+      3,
+      4,
+      6
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      2,
+      1,
+      6,
+      3,
+      7,
+      5
+    ]
+  },
+  {
+    "iImmigr": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dIncome4": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRelat1": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry1": [
+      2,
+      0,
+      3,
+      4
+    ],
+    "iClass": [
+      6,
+      2,
+      5
+    ],
+    "iFertil": [
+      4
+    ],
+    "dIncome2": [
+      0
+    ],
+    "iLang1": [
+      1,
+      0,
+      2
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRspouse": [
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ],
+    "dTravtime": [
+      0
+    ]
+  },
+  {
+    "dIndustry": [
+      7,
+      3,
+      9,
+      0,
+      1,
+      2,
+      8,
+      6,
+      5,
+      4,
+      11
+    ],
+    "iRelat2": [
+      0
+    ],
+    "dTravtime": [
+      3,
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "iMilitary": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "dOccup": [
+      4,
+      1,
+      0,
+      2
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      2
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iSex": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iYearwrk": [
+      0
+    ]
+  },
+  {
+    "dHours": [
+      1,
+      3,
+      0,
+      5
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iRspouse": [
+      0,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      3,
+      4
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMilitary": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSchool": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      4
+    ],
+    "iAvail": [
+      0
+    ],
+    "iCitizen": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      2,
+      8,
+      6,
+      5,
+      11
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iSept80": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2
+    ]
+  },
+  {
+    "dHours": [
+      1,
+      3,
+      4,
+      0,
+      2,
+      5
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      1,
+      0,
+      2
+    ],
+    "dIncome1": [
+      1,
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "dPoverty": [
+      0,
+      1,
+      2
+    ],
+    "dRpincome": [
+      2
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSex": [
+      1
+    ]
+  },
+  {
+    "iRelat2": [
+      0
+    ],
+    "dTravtime": [
+      3,
+      5,
+      0,
+      4
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      4,
+      7,
+      8,
+      6,
+      9,
+      15,
+      11,
+      14
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "dRearning": [
+      2,
+      3
+    ],
+    "iRelat1": [
+      2,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ],
+    "iYearsch": [
+      1,
+      0,
+      7,
+      11
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      0,
+      3,
+      5
+    ],
+    "dHours": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iWork89": [
+      0,
+      1
+    ]
+  },
+  {
+    "iImmigr": [
+      0
+    ],
+    "dIncome1": [
+      1,
+      0
+    ],
+    "dRearning": [
+      2,
+      1,
+      0,
+      5
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iYearsch": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      4
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "iMeans": [
+      1,
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dIndustry": [
+      9,
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      4,
+      7,
+      8,
+      6,
+      9,
+      15,
+      11,
+      14
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ]
+  },
+  {
+    "dAncstry1": [
+      3,
+      4
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "dIndustry": [
+      9,
+      0,
+      6,
+      11
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMeans": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      2
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dIndustry": [
+      3,
+      2,
+      8,
+      6,
+      5,
+      11
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "dRearning": [
+      2,
+      3
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dHour89": [
+      5,
+      2,
+      1,
+      0,
+      3,
+      4
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iMobillim": [
+      0
+    ],
+    "dPOB": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "dRearning": [
+      2,
+      1
+    ],
+    "iRelat1": [
+      1
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iRvetserv": [
+      0,
+      5,
+      8,
+      2,
+      6
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iRemplpar": [
+      2,
+      3,
+      9,
+      10
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "iSept80": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ],
+    "dYrsserv": [
+      0,
+      1
+    ]
+  },
+  {
+    "iDisabl1": [
+      0,
+      2
+    ],
+    "iFertil": [
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iRlabor": [
+      0,
+      3,
+      4
+    ],
+    "dRpincome": [
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "dOccup": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iTmpabsnt": [
+      1
+    ],
+    "iYearsch": [
+      1,
+      0,
+      12,
+      3,
+      10,
+      13,
+      16,
+      17
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iAvail": [
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dIncome2": [
+      0,
+      1
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      2
+    ],
+    "iRspouse": [
+      1
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iEnglish": [
+      1,
+      0,
+      2
+    ],
+    "iImmigr": [
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "dWeek89": [
+      1
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "iFertil": [
+      4,
+      5
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dRearning": [
+      2,
+      1,
+      0,
+      5
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "iMilitary": [
+      0,
+      2,
+      3
+    ],
+    "iMobillim": [
+      0
+    ],
+    "dOccup": [
+      4,
+      1,
+      6,
+      0,
+      3,
+      2,
+      5
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iAvail": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iRPOB": [
+      2,
+      0,
+      3
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      7,
+      6,
+      9,
+      12,
+      3,
+      11,
+      13
+    ],
+    "iYearwrk": [
+      1
+    ]
+  },
+  {
+    "dHours": [
+      1,
+      3,
+      0,
+      5
+    ],
+    "dIncome2": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMilitary": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ],
+    "iRiders": [
+      1,
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dHours": [
+      1,
+      3,
+      4,
+      0,
+      2,
+      5
+    ],
+    "iMarital": [
+      1
+    ],
+    "dPOB": [
+      0
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1
+    ],
+    "dHours": [
+      0
+    ],
+    "dIncome2": [
+      0,
+      1
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRspouse": [
+      2,
+      5
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dIncome1": [
+      3,
+      4
+    ],
+    "iTmpabsnt": [
+      0
+    ],
+    "iYearsch": [
+      0,
+      7,
+      6,
+      11
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dPOB": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      2,
+      0
+    ],
+    "iClass": [
+      1
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      2
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry1": [
+      2,
+      0,
+      3,
+      4
+    ],
+    "iClass": [
+      1,
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMobility": [
+      1
+    ],
+    "dOccup": [
+      4,
+      1,
+      0,
+      2
+    ],
+    "dRpincome": [
+      2,
+      0,
+      1,
+      5
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iClass": [
+      1
+    ],
+    "iMarital": [
+      1
+    ],
+    "iMobility": [
+      0
+    ],
+    "iRemplpar": [
+      0,
+      1
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iRelat1": [
+      1,
+      6,
+      5,
+      10,
+      4,
+      3,
+      13,
+      11
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dIncome2": [
+      0,
+      1
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ]
+  },
+  {
+    "iAvail": [
+      0,
+      2,
+      1,
+      3,
+      4
+    ],
+    "iLang1": [
+      1,
+      0
+    ],
+    "iMarital": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "dOccup": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "iCitizen": [
+      0,
+      2,
+      1,
+      3,
+      4
+    ],
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMobility": [
+      1
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRagechld": [
+      2,
+      0,
+      3
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      7,
+      6,
+      9,
+      11
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dHour89": [
+      1
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iRelat1": [
+      0,
+      2
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "dIncome2": [
+      0,
+      1
+    ],
+    "iMay75880": [
+      0
+    ],
+    "dPoverty": [
+      0,
+      1
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iSex": [
+      1
+    ],
+    "iSubfam2": [
+      0,
+      1
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0,
+      3,
+      5
+    ],
+    "iDisabl1": [
+      1
+    ],
+    "iEnglish": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "dRpincome": [
+      2,
+      0,
+      3
+    ],
+    "iRspouse": [
+      0
+    ],
+    "dTravtime": [
+      3,
+      5,
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "dIncome1": [
+      2,
+      1
+    ],
+    "dPOB": [
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      2,
+      1,
+      0,
+      6
+    ],
+    "iFertil": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dHour89": [
+      2,
+      1,
+      0,
+      4
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iRemplpar": [
+      0,
+      1
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dHispanic": [
+      0
+    ],
+    "iYearwrk": [
+      2,
+      4
+    ]
+  },
+  {
+    "dIncome2": [
+      0,
+      1
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iRiders": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      4
+    ],
+    "dAncstry2": [
+      0,
+      1,
+      2
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      4,
+      0,
+      6
+    ],
+    "iCitizen": [
+      0
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "iSchool": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ],
+    "dTravtime": [
+      3,
+      5,
+      0,
+      4
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      2
+    ],
+    "iRspouse": [
+      4,
+      0,
+      3,
+      6
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "dTravtime": [
+      3,
+      5,
+      0,
+      4
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMobility": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      1,
+      6
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "dTravtime": [
+      3
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iYearsch": [
+      2,
+      4
+    ]
+  },
+  {
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "iSex": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ]
+  },
+  {
+    "dHour89": [
+      2,
+      1,
+      4
+    ],
+    "iImmigr": [
+      0
+    ],
+    "iRagechld": [
+      2,
+      0,
+      4,
+      3
+    ],
+    "iSept80": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iMobility": [
+      1,
+      0
+    ],
+    "dRearning": [
+      1,
+      0,
+      5
+    ],
+    "iRelat1": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dHours": [
+      1,
+      3,
+      4,
+      0,
+      5
+    ],
+    "dIncome1": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "iLooking": [
+      0,
+      2
+    ],
+    "dPoverty": [
+      0
+    ],
+    "dTravtime": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "dHour89": [
+      2,
+      0,
+      4
+    ],
+    "dIncome1": [
+      0
+    ],
+    "iSchool": [
+      0,
+      1
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "dHours": [
+      1
+    ],
+    "dIncome5": [
+      0,
+      1
+    ],
+    "dIndustry": [
+      2,
+      4
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      2,
+      8,
+      6,
+      5,
+      4,
+      11
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRrelchld": [
+      1
+    ],
+    "iRvetserv": [
+      0,
+      5
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "iAvail": [
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iPerscare": [
+      1
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iRspouse": [
+      0,
+      1
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dIncome1": [
+      0
+    ],
+    "iMobility": [
+      0,
+      2
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dHour89": [
+      2,
+      1,
+      0,
+      4
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRemplpar": [
+      0,
+      1
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ]
+  },
+  {
+    "iMarital": [
+      1,
+      2,
+      4
+    ],
+    "iMay75880": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRelat1": [
+      2,
+      1
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "dHour89": [
+      2,
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iPerscare": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "dHours": [
+      1,
+      3,
+      4,
+      0,
+      2,
+      5
+    ],
+    "dIndustry": [
+      1,
+      4
+    ],
+    "iRspouse": [
+      0
+    ],
+    "iWork89": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iFertil": [
+      1,
+      0
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "dRearning": [
+      1,
+      0,
+      5
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dIncome1": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iWWII": [
+      0,
+      1
+    ]
+  },
+  {
+    "dDepart": [
+      0,
+      3,
+      5
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dIncome1": [
+      2,
+      3,
+      4
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iWork89": [
+      0,
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ]
+  },
+  {
+    "dIncome6": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "dIncome6": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0,
+      3,
+      5
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "iMarital": [
+      3,
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "dWeek89": [
+      2,
+      0
+    ]
+  },
+  {
+    "dAge": [
+      2,
+      1
+    ],
+    "iCitizen": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      1,
+      0
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iImmigr": [
+      0,
+      2,
+      1,
+      7,
+      5,
+      8
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dHour89": [
+      1
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMilitary": [
+      0,
+      2,
+      3
+    ],
+    "iMobility": [
+      0
+    ],
+    "iYearwrk": [
+      3
+    ]
+  },
+  {
+    "dAncstry1": [
+      0
+    ],
+    "dIncome1": [
+      2,
+      1,
+      3
+    ],
+    "iLang1": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      2,
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRlabor": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ]
+  },
+  {
+    "dRearning": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2
+    ],
+    "dWeek89": [
+      1
+    ]
+  },
+  {
+    "dHour89": [
+      2,
+      1,
+      0,
+      4
+    ],
+    "dIncome1": [
+      2,
+      1,
+      0,
+      3,
+      4
+    ],
+    "dIncome4": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "dIncome1": [
+      2,
+      3,
+      4
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ],
+    "iWWII": [
+      0
+    ],
+    "iYearsch": [
+      2,
+      0,
+      7,
+      6,
+      9,
+      11
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3
+    ],
+    "dHours": [
+      0
+    ],
+    "dIncome1": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "dIncome2": [
+      0
+    ],
+    "iLooking": [
+      1
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "dWeek89": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dPoverty": [
+      0,
+      1
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iWork89": [
+      0
+    ]
+  },
+  {
+    "iMeans": [
+      1,
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iRelat1": [
+      1
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      2,
+      6,
+      3,
+      7,
+      5
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iWork89": [
+      0,
+      2
+    ]
+  },
+  {
+    "iClass": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      4
+    ],
+    "iClass": [
+      1,
+      0,
+      3,
+      5,
+      4
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iRspouse": [
+      0,
+      1
+    ],
+    "dWeek89": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dDepart": [
+      0,
+      5
+    ],
+    "iRiders": [
+      1
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "dTravtime": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIndustry": [
+      2,
+      4
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      4
+    ],
+    "iSchool": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "iLang1": [
+      1,
+      2
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMilitary": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "dOccup": [
+      0,
+      2
+    ],
+    "dPoverty": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iWWII": [
+      0,
+      1
+    ]
+  },
+  {
+    "dIncome4": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRPOB": [
+      1
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      4,
+      6
+    ],
+    "dAncstry2": [
+      0
+    ],
+    "iMobility": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRemplpar": [
+      0,
+      2,
+      3,
+      7,
+      1,
+      8,
+      4,
+      9,
+      11,
+      10,
+      15,
+      14,
+      12,
+      13
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      1
+    ],
+    "dAncstry1": [
+      0,
+      3,
+      4
+    ],
+    "iMay75880": [
+      0
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "dWeek89": [
+      1
+    ]
+  },
+  {
+    "iClass": [
+      6,
+      1,
+      0,
+      2,
+      3,
+      5,
+      4
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "iAvail": [
+      0
+    ],
+    "dHours": [
+      3,
+      0
+    ]
+  },
+  {
+    "dHour89": [
+      2,
+      1,
+      0,
+      4
+    ],
+    "dHours": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iSex": [
+      0,
+      1
+    ]
+  },
+  {
+    "dHispanic": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      2,
+      8,
+      6,
+      5,
+      4,
+      11
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      3,
+      4,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iRPOB": [
+      2,
+      0,
+      3
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iLooking": [
+      0
+    ],
+    "iMeans": [
+      1
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iRspouse": [
+      0,
+      1
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSchool": [
+      0,
+      1
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iAvail": [
+      0
+    ],
+    "iFertil": [
+      4,
+      7,
+      5,
+      6
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "dRpincome": [
+      2,
+      0
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "dDepart": [
+      1,
+      2,
+      0,
+      3,
+      5
+    ],
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "iFertil": [
+      1,
+      3
+    ],
+    "iImmigr": [
+      0,
+      2,
+      1,
+      7,
+      5,
+      8
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      4,
+      7,
+      8,
+      6,
+      9,
+      15,
+      5,
+      11,
+      14
+    ],
+    "iYearwrk": [
+      0,
+      2,
+      6,
+      3,
+      7,
+      5
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ],
+    "iVietnam": [
+      0
+    ],
+    "dWeek89": [
+      1
+    ]
+  },
+  {
+    "iMilitary": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iDisabl1": [
+      0,
+      1,
+      2
+    ],
+    "dRpincome": [
+      1
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dHours": [
+      0
+    ],
+    "iMarital": [
+      1
+    ],
+    "dPOB": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIndustry": [
+      2,
+      8,
+      5,
+      4
+    ],
+    "iMarital": [
+      3,
+      0,
+      2
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ],
+    "iWWII": [
+      0,
+      1
+    ]
+  },
+  {
+    "iImmigr": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMarital": [
+      1
+    ],
+    "iRelat1": [
+      1,
+      10,
+      4,
+      11
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      4
+    ],
+    "iAvail": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      2,
+      8,
+      6,
+      5,
+      4,
+      11
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      4
+    ],
+    "iImmigr": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "dOccup": [
+      4,
+      1
+    ],
+    "dPOB": [
+      0,
+      2,
+      1,
+      3,
+      4
+    ],
+    "dRearning": [
+      1,
+      0,
+      5
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "dIncome1": [
+      0
+    ],
+    "iRagechld": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      4,
+      6
+    ],
+    "iRvetserv": [
+      0,
+      5,
+      8,
+      3,
+      1,
+      2,
+      4,
+      6,
+      9,
+      7,
+      11
+    ],
+    "iSex": [
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dIncome3": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "dRearning": [
+      0
+    ],
+    "iSchool": [
+      0,
+      2
+    ]
+  },
+  {
+    "dAge": [
+      2,
+      6
+    ],
+    "iImmigr": [
+      0
+    ],
+    "iKorean": [
+      0,
+      1
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dHour89": [
+      5,
+      2,
+      1,
+      0,
+      3,
+      4
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "dIncome5": [
+      1
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "dIncome5": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "iFertil": [
+      1,
+      0
+    ],
+    "dIncome1": [
+      2,
+      1,
+      3
+    ],
+    "dIncome5": [
+      0,
+      1
+    ],
+    "iLang1": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ]
+  },
+  {
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dOccup": [
+      2
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "dHours": [
+      0
+    ],
+    "iRelat1": [
+      2,
+      1,
+      5,
+      10,
+      4,
+      3,
+      11
+    ],
+    "iRelat2": [
+      0
+    ],
+    "dRpincome": [
+      0
+    ],
+    "iRPOB": [
+      2,
+      0,
+      3,
+      1,
+      5
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "dDepart": [
+      1,
+      0,
+      3,
+      5
+    ],
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "dRearning": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "dAge": [
+      2,
+      1
+    ],
+    "dAncstry1": [
+      2,
+      0,
+      4
+    ],
+    "dIncome1": [
+      2,
+      1,
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iRelat1": [
+      2,
+      1,
+      10,
+      4,
+      3,
+      11
+    ],
+    "iRPOB": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      1
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dIncome1": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dPoverty": [
+      0,
+      1
+    ],
+    "iRelat1": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ],
+    "iSex": [
+      1
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iMilitary": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1
+    ],
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iEnglish": [
+      0
+    ],
+    "iFeb55": [
+      0,
+      1
+    ],
+    "dHour89": [
+      1,
+      4
+    ],
+    "dIncome1": [
+      2,
+      1,
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMilitary": [
+      0,
+      2,
+      3
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      3,
+      4
+    ],
+    "iAvail": [
+      0
+    ],
+    "dDepart": [
+      0,
+      3,
+      5
+    ],
+    "dPwgt1": [
+      0,
+      2
+    ],
+    "iRelat1": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      2,
+      0,
+      3,
+      5
+    ],
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIndustry": [
+      1,
+      2,
+      8,
+      5,
+      4
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iSchool": [
+      0
+    ]
+  },
+  {
+    "dIncome3": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      2,
+      6,
+      3,
+      7,
+      5
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dHour89": [
+      2,
+      0
+    ],
+    "dHours": [
+      1,
+      3,
+      4,
+      0,
+      2,
+      5
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "dTravtime": [
+      3,
+      5,
+      0
+    ],
+    "dWeek89": [
+      2
+    ],
+    "iWork89": [
+      0,
+      1
+    ],
+    "iWWII": [
+      0
+    ],
+    "dYrsserv": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      4,
+      0,
+      6
+    ],
+    "iClass": [
+      1,
+      0
+    ],
+    "dHour89": [
+      2,
+      1,
+      4
+    ],
+    "iMeans": [
+      0
+    ],
+    "dOccup": [
+      4,
+      1,
+      6,
+      0,
+      2,
+      5
+    ],
+    "dRearning": [
+      0
+    ],
+    "iRemplpar": [
+      0,
+      2,
+      3,
+      7,
+      1,
+      8,
+      6,
+      4,
+      5,
+      9,
+      11,
+      10,
+      15,
+      14,
+      12,
+      13
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      1,
+      5,
+      6
+    ],
+    "iVietnam": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2
+    ],
+    "iWork89": [
+      0,
+      2
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRspouse": [
+      0
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "dWeek89": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "dIncome8": [
+      0
+    ],
+    "dOccup": [
+      3,
+      5
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "iYearsch": [
+      1
+    ]
+  },
+  {
+    "iMobillim": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "dTravtime": [
+      1,
+      3,
+      5,
+      2,
+      4
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "dIncome2": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "dPOB": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "dTravtime": [
+      3,
+      5,
+      0,
+      4
+    ],
+    "iVietnam": [
+      0,
+      1
+    ],
+    "dWeek89": [
+      2
+    ]
+  },
+  {
+    "dIncome3": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ],
+    "iSchool": [
+      0
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      3,
+      4,
+      7,
+      6,
+      11
+    ],
+    "dDepart": [
+      0,
+      3,
+      5
+    ],
+    "dHour89": [
+      5,
+      2,
+      1,
+      0,
+      4
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      2,
+      4,
+      6,
+      3,
+      7,
+      5
+    ]
+  },
+  {
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSex": [
+      1
+    ],
+    "iYearsch": [
+      1,
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0,
+      1,
+      2
+    ],
+    "dIncome7": [
+      1
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iSchool": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iWork89": [
+      0,
+      2
+    ]
+  },
+  {
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dPOB": [
+      0,
+      2,
+      1,
+      3,
+      4
+    ],
+    "iRPOB": [
+      2,
+      0,
+      3,
+      1,
+      5,
+      7,
+      8,
+      11,
+      9,
+      10,
+      13,
+      12
+    ],
+    "iWork89": [
+      0
+    ]
+  },
+  {
+    "iImmigr": [
+      0,
+      1
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "iImmigr": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMeans": [
+      1,
+      2,
+      0,
+      3,
+      4,
+      5,
+      9,
+      7,
+      11,
+      10,
+      8,
+      12
+    ],
+    "iSex": [
+      0
+    ]
+  },
+  {
+    "iMobility": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRvetserv": [
+      0,
+      5,
+      8,
+      2,
+      6
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "dIncome2": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "dIndustry": [
+      0
+    ],
+    "iMeans": [
+      1,
+      2,
+      0,
+      4,
+      5,
+      9,
+      7,
+      11,
+      10,
+      8,
+      12
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iYearsch": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      4
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "iFertil": [
+      0
+    ],
+    "dHours": [
+      1,
+      3,
+      0,
+      5
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "iMeans": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSex": [
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "iClass": [
+      1,
+      0
+    ],
+    "iMobillim": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      2,
+      1,
+      0,
+      6
+    ],
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      6,
+      11
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "dRpincome": [
+      1
+    ],
+    "iRPOB": [
+      2,
+      0,
+      3,
+      1,
+      6,
+      5,
+      4,
+      7,
+      8,
+      11,
+      9,
+      10,
+      13,
+      12
+    ],
+    "iSept80": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "dIncome5": [
+      0,
+      1
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRemplpar": [
+      2,
+      3,
+      1,
+      9,
+      10
+    ],
+    "dTravtime": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iMeans": [
+      0
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRelat1": [
+      0
+    ],
+    "iWorklwk": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "dIncome7": [
+      0,
+      1
+    ],
+    "iRlabor": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      4,
+      6
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      6
+    ],
+    "iDisabl2": [
+      0,
+      2
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dHours": [
+      0
+    ],
+    "dIncome1": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iFertil": [
+      2,
+      3
+    ],
+    "iImmigr": [
+      0,
+      1
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iYearsch": [
+      8,
+      15,
+      5,
+      14
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      4,
+      6
+    ],
+    "iLang1": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "dRpincome": [
+      2,
+      0,
+      3
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      0,
+      3,
+      5
+    ],
+    "iEnglish": [
+      1,
+      0
+    ],
+    "dIncome1": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dIndustry": [
+      2
+    ],
+    "iPerscare": [
+      0
+    ],
+    "dYrsserv": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "dHour89": [
+      5,
+      1,
+      3
+    ],
+    "iKorean": [
+      0
+    ],
+    "iLang1": [
+      1,
+      0,
+      2
+    ],
+    "iMobility": [
+      0
+    ],
+    "iRagechld": [
+      2,
+      0,
+      3
+    ],
+    "dRpincome": [
+      2,
+      0,
+      3
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSubfam2": [
+      0,
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iRagechld": [
+      1,
+      2,
+      4
+    ],
+    "dRpincome": [
+      1
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      4,
+      6
+    ],
+    "dIncome1": [
+      1,
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iMilitary": [
+      0,
+      3
+    ],
+    "dRearning": [
+      1,
+      0,
+      5
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iYearwrk": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      1,
+      2
+    ],
+    "iImmigr": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iRiders": [
+      0
+    ],
+    "dYrsserv": [
+      0,
+      1
+    ]
+  },
+  {
+    "iFertil": [
+      0
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iSex": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0,
+      1
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iClass": [
+      1,
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIndustry": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ],
+    "iWork89": [
+      0,
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "iDisabl1": [
+      0,
+      2
+    ],
+    "dIncome4": [
+      0
+    ],
+    "iRiders": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iWork89": [
+      0,
+      1
+    ],
+    "iYearsch": [
+      0,
+      7,
+      6,
+      11
+    ]
+  },
+  {
+    "dDepart": [
+      0,
+      3,
+      5
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dRpincome": [
+      2,
+      0,
+      1,
+      3,
+      4,
+      5
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIndustry": [
+      7,
+      1,
+      4,
+      10
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iRagechld": [
+      2,
+      0,
+      3
+    ],
+    "iRiders": [
+      1,
+      2
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "dTravtime": [
+      1,
+      3,
+      5,
+      0,
+      2,
+      4
+    ],
+    "iVietnam": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "dRearning": [
+      1,
+      0,
+      5
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dIncome2": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iYearsch": [
+      2,
+      4,
+      7,
+      6,
+      9,
+      11
+    ]
+  },
+  {
+    "iLooking": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iYearwrk": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dDepart": [
+      2
+    ],
+    "iMobility": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRemplpar": [
+      0,
+      3,
+      1
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dIncome6": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iRspouse": [
+      0,
+      1
+    ],
+    "iRvetserv": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iMay75880": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      1,
+      2
+    ],
+    "iRrelchld": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0,
+      1,
+      2
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iMeans": [
+      0
+    ],
+    "dOccup": [
+      4,
+      1,
+      6,
+      0,
+      2,
+      5
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iRspouse": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dOccup": [
+      0,
+      2
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1
+    ],
+    "dDepart": [
+      1,
+      3,
+      5
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome7": [
+      0,
+      1
+    ],
+    "iPerscare": [
+      0
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "dOccup": [
+      4,
+      1,
+      6,
+      3,
+      2,
+      5
+    ],
+    "iRvetserv": [
+      1
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iWork89": [
+      0,
+      2
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iMeans": [
+      1,
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "dHour89": [
+      5,
+      2,
+      1,
+      0,
+      4
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      2,
+      8,
+      6,
+      5,
+      4,
+      11
+    ],
+    "dPoverty": [
+      0,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iClass": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "dPOB": [
+      0,
+      2,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "iAvail": [
+      0,
+      2,
+      1,
+      3,
+      4
+    ],
+    "dHours": [
+      1,
+      3,
+      0,
+      5
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ],
+    "iSchool": [
+      0
+    ],
+    "dTravtime": [
+      3,
+      5,
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      3,
+      4,
+      5,
+      8,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iLooking": [
+      0
+    ],
+    "iRiders": [
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iCitizen": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "dPoverty": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      2
+    ],
+    "dRearning": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iDisabl1": [
+      0,
+      1,
+      2
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      2
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2
+    ],
+    "iRiders": [
+      1,
+      0,
+      2
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMeans": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ],
+    "iRspouse": [
+      4,
+      0,
+      3,
+      6
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ]
+  },
+  {
+    "iClass": [
+      1
+    ],
+    "iDisabl1": [
+      0,
+      2
+    ],
+    "iKorean": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      3,
+      4
+    ],
+    "iAvail": [
+      0
+    ],
+    "iCitizen": [
+      0
+    ],
+    "iClass": [
+      6,
+      1,
+      3,
+      5,
+      4
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRelat1": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iRvetserv": [
+      0
+    ]
+  },
+  {
+    "dHours": [
+      1,
+      3,
+      4,
+      0,
+      2,
+      5
+    ],
+    "iKorean": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      2,
+      0,
+      3,
+      5
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      2
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      3,
+      4
+    ],
+    "dAncstry2": [
+      0
+    ],
+    "iAvail": [
+      0
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dIncome5": [
+      0,
+      1
+    ],
+    "iMobillim": [
+      1,
+      2
+    ],
+    "iRlabor": [
+      0
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSchool": [
+      0,
+      1
+    ],
+    "iTmpabsnt": [
+      0
+    ],
+    "iWork89": [
+      0,
+      1,
+      2
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "iClass": [
+      0
+    ],
+    "iFeb55": [
+      0,
+      1
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome1": [
+      2,
+      1,
+      0
+    ],
+    "iLang1": [
+      1,
+      0,
+      2
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0,
+      2
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "dOccup": [
+      0
+    ],
+    "iRemplpar": [
+      0,
+      2,
+      3,
+      7,
+      1,
+      8,
+      6,
+      4,
+      9,
+      11,
+      10,
+      15,
+      14,
+      12,
+      13
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "iDisabl1": [
+      0
+    ],
+    "iFeb55": [
+      0,
+      1
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dHours": [
+      3,
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "iRelat1": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "dAncstry2": [
+      1
+    ],
+    "iCitizen": [
+      0
+    ],
+    "iMobillim": [
+      1,
+      2
+    ],
+    "dPwgt1": [
+      0,
+      1
+    ],
+    "iRlabor": [
+      0,
+      2
+    ],
+    "iRPOB": [
+      0,
+      3
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSubfam1": [
+      0,
+      3
+    ],
+    "dTravtime": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iSchool": [
+      1,
+      3
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iYearsch": [
+      1,
+      0,
+      12,
+      3,
+      13
+    ]
+  },
+  {
+    "dHours": [
+      1,
+      3,
+      0,
+      5
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIncome7": [
+      0,
+      1
+    ],
+    "iMay75880": [
+      0
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ]
+  },
+  {
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "iEnglish": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "dOccup": [
+      1,
+      0,
+      2
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRspouse": [
+      1
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      4,
+      7,
+      6,
+      9,
+      11
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0
+    ],
+    "iCitizen": [
+      0
+    ],
+    "iClass": [
+      1,
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dHour89": [
+      2
+    ],
+    "dIncome1": [
+      2,
+      1,
+      0
+    ],
+    "iMeans": [
+      1,
+      2,
+      0,
+      4,
+      5,
+      9,
+      7,
+      11,
+      10,
+      8,
+      12
+    ],
+    "dRearning": [
+      2,
+      1
+    ],
+    "iSubfam1": [
+      0,
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      0,
+      3,
+      5
+    ],
+    "iMeans": [
+      1,
+      2,
+      0,
+      4,
+      5,
+      9,
+      7,
+      11,
+      10,
+      8,
+      12
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "iAvail": [
+      0,
+      2,
+      1,
+      3,
+      4
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "dRpincome": [
+      3
+    ],
+    "iTmpabsnt": [
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iWorklwk": [
+      1
+    ]
+  },
+  {
+    "dHour89": [
+      2,
+      0,
+      4
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMobility": [
+      0,
+      2
+    ],
+    "iRelat1": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      4,
+      6
+    ]
+  },
+  {
+    "iFertil": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iMobility": [
+      1
+    ],
+    "dOccup": [
+      4,
+      1,
+      6,
+      3,
+      5
+    ],
+    "iSchool": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iYearwrk": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      2,
+      0,
+      6
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome6": [
+      0,
+      1
+    ],
+    "iMilitary": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iRemplpar": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iSchool": [
+      0
+    ]
+  },
+  {
+    "dHours": [
+      1
+    ],
+    "dIncome4": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSex": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0,
+      4
+    ],
+    "iFertil": [
+      1
+    ],
+    "dIncome7": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "dRearning": [
+      2
+    ],
+    "iSept80": [
+      0
+    ],
+    "dTravtime": [
+      1,
+      3,
+      5,
+      0,
+      2,
+      4
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      4,
+      0,
+      6
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iRiders": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      2
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dHour89": [
+      2,
+      0
+    ],
+    "dIndustry": [
+      3,
+      2,
+      8,
+      5,
+      4
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iPerscare": [
+      2
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "dHispanic": [
+      0,
+      6,
+      1,
+      2,
+      5
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "dPwgt1": [
+      2
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      4
+    ],
+    "dHour89": [
+      5,
+      1
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iRagechld": [
+      0,
+      3
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iMilitary": [
+      2,
+      4
+    ],
+    "dOccup": [
+      3
+    ],
+    "iRagechld": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      2,
+      0,
+      3,
+      5
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "dHours": [
+      3,
+      5
+    ],
+    "iImmigr": [
+      0,
+      1,
+      8
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iRspouse": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iWWII": [
+      0
+    ],
+    "iYearsch": [
+      2,
+      0,
+      4,
+      7,
+      8,
+      6,
+      9,
+      15,
+      5,
+      11,
+      14
+    ]
+  },
+  {
+    "dIncome1": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRelat1": [
+      2,
+      1
+    ],
+    "dRpincome": [
+      1
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ],
+    "iWorklwk": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dHour89": [
+      0
+    ],
+    "dHours": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSchool": [
+      0,
+      1
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "dWeek89": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      2,
+      0
+    ],
+    "iClass": [
+      0
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iRiders": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      2,
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iAvail": [
+      0
+    ],
+    "dIndustry": [
+      7,
+      1
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iMobillim": [
+      1,
+      2
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "dIncome1": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "iFertil": [
+      2,
+      4,
+      5
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      6,
+      11
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMeans": [
+      1,
+      2,
+      0,
+      4,
+      5,
+      9,
+      7,
+      11,
+      10,
+      8,
+      12
+    ],
+    "dOccup": [
+      4,
+      1,
+      6,
+      3,
+      5
+    ],
+    "iYearsch": [
+      1,
+      12,
+      3,
+      13
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      2,
+      8,
+      5
+    ],
+    "iRagechld": [
+      1
+    ],
+    "iRPOB": [
+      1,
+      6,
+      5,
+      4,
+      7,
+      8,
+      11,
+      9,
+      10,
+      13,
+      12
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      4
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dPOB": [
+      1
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "iMarital": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "dRearning": [
+      1,
+      0,
+      5
+    ],
+    "iRemplpar": [
+      0,
+      2,
+      3,
+      1,
+      9,
+      10
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ],
+    "iSex": [
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      4,
+      6
+    ],
+    "dHour89": [
+      2,
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSchool": [
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "dDepart": [
+      4,
+      2
+    ],
+    "dIncome8": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "dWeek89": [
+      1,
+      2
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      2,
+      1,
+      0,
+      6
+    ],
+    "iEnglish": [
+      1,
+      0,
+      2
+    ],
+    "iFertil": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSchool": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "dDepart": [
+      0,
+      5
+    ],
+    "iFertil": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome1": [
+      1,
+      0
+    ],
+    "dRearning": [
+      0
+    ],
+    "iRlabor": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0,
+      3,
+      5
+    ],
+    "iEnglish": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iMilitary": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "iRPOB": [
+      2,
+      0,
+      3,
+      1,
+      5,
+      8
+    ],
+    "dYrsserv": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iEnglish": [
+      1,
+      0,
+      2
+    ],
+    "iPerscare": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "dRearning": [
+      2,
+      1,
+      0,
+      3,
+      5
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iCitizen": [
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dHour89": [
+      2,
+      1,
+      0,
+      4
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iRemplpar": [
+      0,
+      3,
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0
+    ],
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "iFertil": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dOccup": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "dWeek89": [
+      2,
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "dIncome6": [
+      0,
+      1
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iWork89": [
+      0,
+      1
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      4,
+      7,
+      6,
+      9,
+      11
+    ]
+  },
+  {
+    "iMilitary": [
+      0,
+      2,
+      3
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome5": [
+      0,
+      1
+    ],
+    "iMobillim": [
+      0,
+      2
+    ],
+    "iRelat1": [
+      1
+    ],
+    "iRemplpar": [
+      0,
+      2,
+      3,
+      7,
+      1,
+      8,
+      4,
+      9,
+      11,
+      10,
+      15,
+      14,
+      12,
+      13
+    ],
+    "iTmpabsnt": [
+      0
+    ],
+    "dWeek89": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ],
+    "iYearsch": [
+      1,
+      12,
+      3,
+      13
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iMeans": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1,
+      7,
+      6,
+      5,
+      10,
+      4,
+      3,
+      13,
+      11
+    ],
+    "iRlabor": [
+      0,
+      4
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dIndustry": [
+      1,
+      4
+    ],
+    "iMarital": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "dWeek89": [
+      0
+    ]
+  },
+  {
+    "dHours": [
+      3,
+      0,
+      5
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iMobility": [
+      1
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0,
+      2
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      4,
+      7,
+      8,
+      6,
+      9,
+      12,
+      15,
+      11,
+      13,
+      14
+    ]
+  },
+  {
+    "iDisabl1": [
+      0,
+      1,
+      2
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3,
+      5
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0,
+      4
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRspouse": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "iCitizen": [
+      0
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dHour89": [
+      5,
+      2,
+      1,
+      0,
+      3,
+      4
+    ],
+    "dIncome6": [
+      0,
+      1
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      1,
+      2,
+      8,
+      6,
+      5,
+      4,
+      11
+    ],
+    "iLang1": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iSchool": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      1,
+      4
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iSchool": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      1,
+      0,
+      2
+    ],
+    "iFertil": [
+      0
+    ],
+    "dIncome2": [
+      0,
+      1
+    ],
+    "dIncome4": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iYearwrk": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      1
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRPOB": [
+      1,
+      6,
+      5,
+      7,
+      8,
+      11,
+      9,
+      10,
+      13,
+      12
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSchool": [
+      0,
+      1
+    ]
+  },
+  {
+    "dPoverty": [
+      0,
+      1
+    ],
+    "dRpincome": [
+      3
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "dHispanic": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iRPOB": [
+      2,
+      3,
+      1,
+      5
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ],
+    "iSept80": [
+      0
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      3,
+      4
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iRiders": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iYearsch": [
+      1,
+      0,
+      7,
+      6,
+      9,
+      12,
+      3,
+      11,
+      13
+    ]
+  },
+  {
+    "dIncome2": [
+      0
+    ],
+    "iLooking": [
+      0,
+      2
+    ],
+    "iMeans": [
+      1
+    ],
+    "iSchool": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iYearsch": [
+      1,
+      0,
+      12,
+      3,
+      13
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      0
+    ],
+    "iMobility": [
+      1
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "dRpincome": [
+      0
+    ],
+    "iWork89": [
+      0,
+      1,
+      2
+    ],
+    "iYearsch": [
+      8,
+      5
+    ]
+  },
+  {
+    "dHour89": [
+      2,
+      0,
+      4
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dWeek89": [
+      2,
+      0
+    ],
+    "iWork89": [
+      0,
+      2
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iClass": [
+      1,
+      0
+    ],
+    "iDisabl1": [
+      0,
+      1,
+      2
+    ],
+    "iEnglish": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iWork89": [
+      0
+    ]
+  },
+  {
+    "dRearning": [
+      2,
+      1,
+      0,
+      3,
+      5
+    ],
+    "iSchool": [
+      0
+    ],
+    "dWeek89": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dIncome6": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iSubfam1": [
+      0,
+      3
+    ],
+    "iWork89": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      2,
+      6,
+      3,
+      7,
+      5
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      3,
+      4
+    ],
+    "iMobillim": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dIncome1": [
+      2,
+      1,
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "dHispanic": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iRspouse": [
+      1
+    ],
+    "iSubfam2": [
+      0,
+      1
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "dWeek89": [
+      2,
+      0
+    ]
+  },
+  {
+    "dHispanic": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      9,
+      0,
+      2,
+      8,
+      6,
+      5,
+      4,
+      11
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "dRpincome": [
+      2,
+      0,
+      3,
+      4
+    ],
+    "iRPOB": [
+      2,
+      1
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      4
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iSubfam2": [
+      0,
+      1
+    ]
+  },
+  {
+    "iMobillim": [
+      0
+    ],
+    "dOccup": [
+      1,
+      0,
+      2
+    ],
+    "dPOB": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "dRearning": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "dTravtime": [
+      0
+    ]
+  },
+  {
+    "dIncome1": [
+      2,
+      1,
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iDisabl1": [
+      0,
+      2
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "dIncome1": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      2,
+      4
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRagechld": [
+      0
+    ],
+    "iSubfam1": [
+      0,
+      3
+    ],
+    "iYearsch": [
+      1,
+      0,
+      7,
+      6,
+      9,
+      11
+    ]
+  },
+  {
+    "dAncstry1": [
+      0
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3,
+      5
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iPerscare": [
+      0
+    ],
+    "dPwgt1": [
+      1
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "iWork89": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry1": [
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "dHours": [
+      1,
+      3,
+      0,
+      5
+    ],
+    "iRownchld": [
+      0,
+      1
+    ]
+  },
+  {
+    "iFertil": [
+      0
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "iLang1": [
+      1,
+      0
+    ],
+    "iMarital": [
+      1
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iYearwrk": [
+      0,
+      6,
+      3,
+      7,
+      5
+    ]
+  },
+  {
+    "dHours": [
+      1,
+      3,
+      4,
+      0,
+      2,
+      5
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "dRpincome": [
+      2,
+      0
+    ],
+    "dTravtime": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iRemplpar": [
+      0,
+      2,
+      3,
+      7,
+      1,
+      8,
+      6,
+      4,
+      5,
+      9,
+      11,
+      10,
+      15,
+      14,
+      12,
+      13
+    ],
+    "iTmpabsnt": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      6
+    ],
+    "iYearwrk": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3,
+      5
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      3,
+      4
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iRPOB": [
+      0
+    ]
+  },
+  {
+    "dIncome6": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "dPwgt1": [
+      2
+    ],
+    "iSchool": [
+      0,
+      1
+    ]
+  },
+  {
+    "dIncome8": [
+      0
+    ],
+    "iRlabor": [
+      1
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "iFeb55": [
+      0,
+      1
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIndustry": [
+      3,
+      1,
+      2,
+      8,
+      6,
+      5,
+      4
+    ],
+    "dRearning": [
+      1,
+      0,
+      5
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSex": [
+      0
+    ],
+    "iTmpabsnt": [
+      1
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ],
+    "iYearsch": [
+      1,
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      2,
+      0,
+      3,
+      5
+    ],
+    "dHour89": [
+      2,
+      1,
+      0,
+      4
+    ],
+    "dIncome1": [
+      2,
+      3,
+      4
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iRvetserv": [
+      0,
+      5,
+      8,
+      3,
+      2,
+      4,
+      6,
+      9,
+      11
+    ],
+    "iSex": [
+      1
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0
+    ],
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "iFertil": [
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iRspouse": [
+      0,
+      1
+    ],
+    "iSchool": [
+      0
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      4,
+      7,
+      8,
+      6,
+      9,
+      12,
+      3,
+      15,
+      11,
+      13,
+      14
+    ]
+  },
+  {
+    "dAncstry2": [
+      0,
+      1
+    ],
+    "iEnglish": [
+      0
+    ],
+    "iMilitary": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iYearsch": [
+      1,
+      12,
+      3,
+      13
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dWeek89": [
+      0
+    ],
+    "dYrsserv": [
+      0
+    ]
+  },
+  {
+    "iMobility": [
+      1,
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "dIncome1": [
+      0
+    ],
+    "dPwgt1": [
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "dIncome5": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "iMilitary": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      2
+    ],
+    "iRagechld": [
+      1
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3
+    ],
+    "iClass": [
+      1
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRelat1": [
+      2
+    ],
+    "iSept80": [
+      0
+    ],
+    "iYearwrk": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome1": [
+      2,
+      1,
+      0
+    ],
+    "dIncome5": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMobility": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iWork89": [
+      0,
+      2
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      7,
+      6,
+      9,
+      11
+    ],
+    "dYrsserv": [
+      0,
+      1
+    ]
+  },
+  {
+    "dAncstry1": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      7,
+      6,
+      10,
+      11
+    ],
+    "dAncstry2": [
+      0
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "dHispanic": [
+      0,
+      6,
+      1
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "dRearning": [
+      2,
+      1,
+      0,
+      3,
+      4,
+      5
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iWork89": [
+      0,
+      1
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      2,
+      0,
+      3,
+      5
+    ],
+    "iEnglish": [
+      1,
+      0,
+      2,
+      3,
+      4
+    ],
+    "dHispanic": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iMilitary": [
+      1
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "dWeek89": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iLang1": [
+      1
+    ],
+    "iOthrserv": [
+      0
+    ]
+  },
+  {
+    "dIncome5": [
+      0,
+      1
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMilitary": [
+      0,
+      2,
+      3
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRownchld": [
+      0,
+      1
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSchool": [
+      0
+    ]
+  },
+  {
+    "iClass": [
+      1,
+      0,
+      3,
+      4
+    ],
+    "iLooking": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iYearwrk": [
+      0
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3,
+      5
+    ],
+    "dHour89": [
+      2,
+      1,
+      0,
+      4
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iMeans": [
+      1,
+      0
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "dIncome5": [
+      0
+    ],
+    "iMobility": [
+      0,
+      2
+    ],
+    "iRlabor": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSept80": [
+      0
+    ],
+    "iSex": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ]
+  },
+  {
+    "dIncome1": [
+      1,
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "dOccup": [
+      0,
+      2
+    ],
+    "iPerscare": [
+      0
+    ],
+    "dRpincome": [
+      0,
+      1,
+      5
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iYearsch": [
+      2,
+      0,
+      7,
+      6,
+      9,
+      11
+    ]
+  },
+  {
+    "dIncome5": [
+      0
+    ],
+    "dIndustry": [
+      1
+    ],
+    "iKorean": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iRvetserv": [
+      0
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iWork89": [
+      0,
+      1
+    ]
+  },
+  {
+    "dIncome1": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "iMilitary": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "iMobillim": [
+      0
+    ],
+    "dPOB": [
+      0,
+      4
+    ],
+    "iRPOB": [
+      2,
+      1
+    ],
+    "iRspouse": [
+      0,
+      1
+    ],
+    "iSept80": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2
+    ],
+    "iWork89": [
+      0
+    ]
+  },
+  {
+    "dHour89": [
+      5,
+      2,
+      1,
+      0,
+      3,
+      4
+    ],
+    "iLooking": [
+      0
+    ],
+    "dOccup": [
+      1,
+      0,
+      2
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iYearsch": [
+      0
+    ],
+    "dYrsserv": [
+      0,
+      1
+    ]
+  },
+  {
+    "dIndustry": [
+      3,
+      2,
+      8,
+      5
+    ],
+    "iLang1": [
+      1,
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iSept80": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      2,
+      1,
+      4
+    ],
+    "dIncome3": [
+      0
+    ],
+    "iMeans": [
+      0
+    ],
+    "iMobility": [
+      0
+    ],
+    "iOthrserv": [
+      0
+    ],
+    "iSex": [
+      0
+    ],
+    "iWork89": [
+      0,
+      2
+    ]
+  },
+  {
+    "dAge": [
+      5,
+      3,
+      1
+    ],
+    "iDisabl1": [
+      0,
+      1,
+      2
+    ],
+    "iDisabl2": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "dRpincome": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ],
+    "dTravtime": [
+      1,
+      2
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "dIncome7": [
+      0
+    ],
+    "dIncome8": [
+      0,
+      1
+    ],
+    "iLooking": [
+      0,
+      1,
+      2
+    ],
+    "iMobillim": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iRlabor": [
+      0
+    ],
+    "iSchool": [
+      0
+    ],
+    "iSex": [
+      1
+    ],
+    "iSubfam2": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dHour89": [
+      5,
+      2,
+      1,
+      0,
+      3,
+      4
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome3": [
+      0
+    ],
+    "dIndustry": [
+      1,
+      4
+    ],
+    "iLang1": [
+      1,
+      0,
+      2
+    ],
+    "iMarital": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "dWeek89": [
+      1
+    ]
+  },
+  {
+    "iKorean": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "iEnglish": [
+      1,
+      0
+    ],
+    "dHispanic": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome2": [
+      0,
+      1
+    ],
+    "dIncome4": [
+      0
+    ],
+    "dIncome8": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iMarital": [
+      2
+    ],
+    "iPerscare": [
+      0
+    ],
+    "iRvetserv": [
+      0
+    ]
+  },
+  {
+    "dAncstry1": [
+      1
+    ],
+    "dDepart": [
+      0,
+      5
+    ],
+    "dIncome6": [
+      0
+    ],
+    "dPOB": [
+      0
+    ],
+    "iRlabor": [
+      0
+    ],
+    "iSex": [
+      1
+    ],
+    "iYearsch": [
+      1,
+      2,
+      0,
+      4,
+      7,
+      8,
+      6,
+      9,
+      12,
+      3,
+      15,
+      5,
+      11,
+      13,
+      14
+    ],
+    "iYearwrk": [
+      0,
+      1
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "iFertil": [
+      0
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "dRpincome": [
+      2,
+      0,
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "dIncome4": [
+      1
+    ],
+    "iLooking": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      2
+    ],
+    "iVietnam": [
+      0
+    ]
+  },
+  {
+    "iKorean": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iPerscare": [
+      0,
+      1,
+      2
+    ],
+    "dPoverty": [
+      0,
+      1
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ],
+    "iRlabor": [
+      0,
+      1,
+      3,
+      5,
+      4,
+      6
+    ],
+    "dWeek89": [
+      1,
+      2
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "dIncome4": [
+      0
+    ],
+    "iMarital": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "iMobility": [
+      1,
+      0
+    ],
+    "iRelat1": [
+      0,
+      2,
+      1
+    ],
+    "iRelat2": [
+      0
+    ],
+    "iSchool": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "iFertil": [
+      1,
+      2,
+      3
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      0
+    ],
+    "dHours": [
+      3,
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      2
+    ],
+    "dRpincome": [
+      2,
+      0,
+      3
+    ],
+    "iRPOB": [
+      0
+    ],
+    "iRrelchld": [
+      0
+    ],
+    "iSex": [
+      0,
+      1
+    ]
+  },
+  {
+    "dDepart": [
+      1,
+      0,
+      3,
+      5
+    ],
+    "dIncome4": [
+      1,
+      0
+    ],
+    "dIncome7": [
+      0,
+      1
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iRelat1": [
+      0
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1,
+      2
+    ],
+    "iYearsch": [
+      1,
+      0,
+      11
+    ]
+  },
+  {
+    "dAncstry2": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome3": [
+      0,
+      1
+    ],
+    "dIncome8": [
+      0
+    ],
+    "dIndustry": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "dPoverty": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iSchool": [
+      0,
+      1
+    ],
+    "dWeek89": [
+      2,
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "dHour89": [
+      1
+    ],
+    "iImmigr": [
+      0
+    ],
+    "iLang1": [
+      0
+    ],
+    "dOccup": [
+      1,
+      0,
+      2
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "dTravtime": [
+      1,
+      3,
+      5,
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "dIncome4": [
+      0
+    ],
+    "dOccup": [
+      4,
+      1,
+      6,
+      3,
+      2,
+      5
+    ],
+    "iRagechld": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      1
+    ]
+  },
+  {
+    "iAvail": [
+      0
+    ],
+    "iCitizen": [
+      0
+    ],
+    "dHour89": [
+      5,
+      1,
+      3,
+      4
+    ],
+    "dIncome1": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iMarital": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "dPOB": [
+      0
+    ],
+    "dPwgt1": [
+      0,
+      1,
+      3
+    ],
+    "iRelat1": [
+      0,
+      2
+    ],
+    "iRspouse": [
+      0,
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iEnglish": [
+      0
+    ],
+    "dIncome7": [
+      0
+    ],
+    "iMobillim": [
+      0,
+      2
+    ],
+    "dRearning": [
+      0
+    ]
+  },
+  {
+    "iImmigr": [
+      0
+    ],
+    "iMarital": [
+      3,
+      2
+    ],
+    "iMay75880": [
+      0
+    ],
+    "iRlabor": [
+      0
+    ],
+    "iRrelchld": [
+      0,
+      1
+    ],
+    "iVietnam": [
+      0
+    ],
+    "iWorklwk": [
+      0,
+      2
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      0
+    ],
+    "iEnglish": [
+      0
+    ],
+    "iRagechld": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2
+    ],
+    "iRemplpar": [
+      0
+    ],
+    "iSept80": [
+      0
+    ]
+  },
+  {
+    "iCitizen": [
+      0
+    ],
+    "iDisabl1": [
+      1
+    ],
+    "iFeb55": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "iMobillim": [
+      0,
+      1,
+      2
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iRspouse": [
+      4,
+      0,
+      2,
+      3,
+      5,
+      6
+    ],
+    "iSubfam1": [
+      0
+    ],
+    "iSubfam2": [
+      0
+    ],
+    "iYearsch": [
+      0,
+      11
+    ]
+  },
+  {
+    "iFeb55": [
+      0
+    ],
+    "dIncome6": [
+      0
+    ],
+    "iKorean": [
+      0
+    ],
+    "iLooking": [
+      0
+    ],
+    "iRelat1": [
+      0,
+      2
+    ],
+    "iRownchld": [
+      0
+    ],
+    "iVietnam": [
+      0
+    ],
+    "dWeek89": [
+      1,
+      2,
+      0
+    ],
+    "iWWII": [
+      0
+    ]
+  },
+  {
+    "iDisabl2": [
+      0,
+      1,
+      2
+    ],
+    "dHour89": [
+      2,
+      0
+    ],
+    "dIncome7": [
+      0,
+      1
+    ],
+    "iLooking": [
+      0
+    ],
+    "dOccup": [
+      0
+    ],
+    "iRiders": [
+      1,
+      0
+    ],
+    "iTmpabsnt": [
+      0
+    ]
+  },
+  {
+    "iFertil": [
+      0
+    ],
+    "dHours": [
+      0
+    ],
+    "iImmigr": [
+      0
+    ],
+    "dIncome2": [
+      0
+    ],
+    "dWeek89": [
+      1
+    ],
+    "iWorklwk": [
+      1
+    ],
+    "iWWII": [
+      0
+    ]
+  }
+]
