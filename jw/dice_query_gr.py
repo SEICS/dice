@@ -110,13 +110,19 @@ def writeDice(query):
 
     depth = dict(sorted(depth.items(), key = lambda x:x[1]))
     subtree = depth.keys()
+
+    reduced = []
+    for n in nodes_name:
+        if n in subtree:
+            reduced.append(n)
+
     # print("subtree: ",subtree)
     with open("pgmpyCPD.json","r") as f:
         cpds = json.load(f)
         
     # write dice file
     # for n in nodes_name: 
-    for n in subtree:
+    for n in reduced:
         if not parents[n]:
             cpd = [str(cpd) for cpd in cpds[n][0]] # root node
             dice.append("let " + n + " = discrete(" + ",".join(cpd) + ") in\n" )
@@ -166,7 +172,7 @@ def writeDice(query):
     l += ") then (discrete(1.0, 0.0)) else (discrete(0.0, 1.0)) in\nq"
     dice.append(l)
                
-    with open("bayescard.dice", "w+") as f:
+    with open("bayescard_gr.dice", "w+") as f:
         f.write("".join(dice))
 
 if __name__ == "__main__":
@@ -206,13 +212,13 @@ if __name__ == "__main__":
         writeDice(query)
 
         card_start_t = perf_counter()
-        output = subprocess.getoutput("~/Desktop/dice/Dice.native bayescard.dice").split("\n")[1]
+        output = subprocess.getoutput("~/Desktop/dice/Dice.native bayescard_gr.dice").split("\n")[1]
         line = re.findall("[0-9\.]+", output)
         prob = float(line[-1].strip())
-
-        card_end_t = perf_counter()
-        latency_ms = (card_end_t-card_start_t) * 1000
         cardinality_predict = prob * 2458285
+        card_end_t = perf_counter()
+
+        latency_ms = (card_end_t-card_start_t) * 1000
         cardinality_true = true_cardinalities[i]
 
         # print(f"cardinality predict: {cardinality_predict} and cardinality true: {cardinality_true}")

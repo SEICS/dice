@@ -131,7 +131,7 @@ def writeDice(query):
     l += ") then (discrete(1.0, 0.0)) else (discrete(0.0, 1.0)) in\nq"
     dice.append(l)
                
-    with open("bayescard.dice", "w+") as f:
+    with open("bayescard_no_gr.dice", "w+") as f:
         f.write("".join(dice))
 
 if __name__ == "__main__":
@@ -147,7 +147,7 @@ if __name__ == "__main__":
     latencies = []
     q_errors = []
     for i in range(len(queries)): 
-    #     len(queries)
+        # len(queries)
         query = queries[i]
         for q in query.keys():
             attr = query[q]
@@ -171,13 +171,13 @@ if __name__ == "__main__":
         writeDice(query)
 
         card_start_t = perf_counter()
-        output = subprocess.getoutput("~/Desktop/dice/Dice.native bayescard.dice").split("\n")[1]
+        output = subprocess.getoutput("~/Desktop/dice/Dice.native bayescard_no_gr.dice").split("\n")[1]
         line = re.findall("[0-9\.]+", output)
         prob = float(line[-1].strip())
-
-        card_end_t = perf_counter()
-        latency_ms = (card_end_t-card_start_t) * 1000
         cardinality_predict = prob * 2458285
+        card_end_t = perf_counter()
+
+        latency_ms = (card_end_t-card_start_t) * 1000
         cardinality_true = true_cardinalities[i]
 
         # print(f"cardinality predict: {cardinality_predict} and cardinality true: {cardinality_true}")
