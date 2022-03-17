@@ -9,8 +9,12 @@ from anytree import Node, PreOrderIter
 from anytree.exporter import DotExporter
 import numpy as np
 
-relation = [('iLang1', 'dAncstry1'), ('dAncstry1', 'dAncstry2'), ('iLooking', 'iAvail'), ('iRPOB', 'iCitizen'), ('dIndustry', 'iClass'), ('dTravtime', 'dDepart'), ('iDisabl2', 'iDisabl1'), ('iYearwrk', 'iDisabl2'), ('iLang1', 'iEnglish'), ('iRvetserv', 'iFeb55'), ('iRelat1', 'iFertil'), ('dAncstry1', 'dHispanic'), ('iWork89', 'dHour89'), ('iRlabor', 'dHours'), ('iRPOB', 'iImmigr'), ('dRearning', 'dIncome1'), ('iClass', 'dIncome2'), ('dOccup', 'dIncome3'), ('dRpincome', 'dIncome4'), ('dAge', 'dIncome5'), ('dRpincome', 'dIncome6'), ('dAge', 'dIncome7'), ('dRpincome', 'dIncome8'), ('dOccup', 'dIndustry'), ('iRvetserv', 'iKorean'), ('iYearsch', 'iLang1'), ('iRlabor', 'iLooking'), ('iRspouse', 'iMarital'), ('iRvetserv', 'iMay75880'), ('dHours', 'iMeans'), ('iRlabor', 'iMilitary'), ('iLang1', 'iMobility'), ('iDisabl1', 'iMobillim'), ('iYearwrk', 'dOccup'), ('iRvetserv', 'iOthrserv'), ('iMobillim', 'iPerscare'), ('dAncstry1', 'dPOB'), ('iRelat1', 'dPoverty'), ('iRPOB', 'dPwgt1'), ('iFertil', 'iRagechld'), ('dHour89', 'dRearning'), ('iRspouse', 'iRelat1'), ('iRelat1', 'iRelat2'), ('iRrelchld', 'iRemplpar'), ('iMeans', 'iRiders'), ('iYearwrk', 'iRlabor'), ('iRemplpar', 'iRownchld'), ('dRearning', 'dRpincome'), ('dPOB', 'iRPOB'), ('dAge', 'iRrelchld'), ('dAge', 'iRspouse'), ('iMilitary', 'iRvetserv'), ('dAge', 'iSchool'), ('iRvetserv', 'iSept80'), ('iRagechld', 'iSex'), ('iRelat1', 'iSubfam1'), ('iSubfam1', 'iSubfam2'), ('iRlabor', 'iTmpabsnt'), ('iMeans', 'dTravtime'), ('iRvetserv', 'iVietnam'), ('dRearning', 'dWeek89'), ('iYearwrk', 'iWork89'), ('iRlabor', 'iWorklwk'), ('iRvetserv', 'iWWII'), ('dAge', 'iYearsch'), ('dAge', 'iYearwrk'), ('iRvetserv', 'dYrsserv')]
-    
+# census
+# relation = [('iLang1', 'dAncstry1'), ('dAncstry1', 'dAncstry2'), ('iLooking', 'iAvail'), ('iRPOB', 'iCitizen'), ('dIndustry', 'iClass'), ('dTravtime', 'dDepart'), ('iDisabl2', 'iDisabl1'), ('iYearwrk', 'iDisabl2'), ('iLang1', 'iEnglish'), ('iRvetserv', 'iFeb55'), ('iRelat1', 'iFertil'), ('dAncstry1', 'dHispanic'), ('iWork89', 'dHour89'), ('iRlabor', 'dHours'), ('iRPOB', 'iImmigr'), ('dRearning', 'dIncome1'), ('iClass', 'dIncome2'), ('dOccup', 'dIncome3'), ('dRpincome', 'dIncome4'), ('dAge', 'dIncome5'), ('dRpincome', 'dIncome6'), ('dAge', 'dIncome7'), ('dRpincome', 'dIncome8'), ('dOccup', 'dIndustry'), ('iRvetserv', 'iKorean'), ('iYearsch', 'iLang1'), ('iRlabor', 'iLooking'), ('iRspouse', 'iMarital'), ('iRvetserv', 'iMay75880'), ('dHours', 'iMeans'), ('iRlabor', 'iMilitary'), ('iLang1', 'iMobility'), ('iDisabl1', 'iMobillim'), ('iYearwrk', 'dOccup'), ('iRvetserv', 'iOthrserv'), ('iMobillim', 'iPerscare'), ('dAncstry1', 'dPOB'), ('iRelat1', 'dPoverty'), ('iRPOB', 'dPwgt1'), ('iFertil', 'iRagechld'), ('dHour89', 'dRearning'), ('iRspouse', 'iRelat1'), ('iRelat1', 'iRelat2'), ('iRrelchld', 'iRemplpar'), ('iMeans', 'iRiders'), ('iYearwrk', 'iRlabor'), ('iRemplpar', 'iRownchld'), ('dRearning', 'dRpincome'), ('dPOB', 'iRPOB'), ('dAge', 'iRrelchld'), ('dAge', 'iRspouse'), ('iMilitary', 'iRvetserv'), ('dAge', 'iSchool'), ('iRvetserv', 'iSept80'), ('iRagechld', 'iSex'), ('iRelat1', 'iSubfam1'), ('iSubfam1', 'iSubfam2'), ('iRlabor', 'iTmpabsnt'), ('iMeans', 'dTravtime'), ('iRvetserv', 'iVietnam'), ('dRearning', 'dWeek89'), ('iYearwrk', 'iWork89'), ('iRlabor', 'iWorklwk'), ('iRvetserv', 'iWWII'), ('dAge', 'iYearsch'), ('dAge', 'iYearwrk'), ('iRvetserv', 'dYrsserv')]
+# dmv 
+relation = [('Record_Type', 'Registration_Class'), ('County', 'State'), ('Registration_Class', 'County'), ('Body_Type', 'Model_Year'), ('Registration_Class', 'Body_Type'), ('Body_Type', 'Fuel_Type'), ('County', 'Scofflaw_Indicator'), ('Body_Type', 'Suspension_Indicator'), ('Registration_Class', 'Revocation_Indicator')]
+
+
 def tree_structure(relation):
     nodes = []
     if relation:
@@ -63,7 +67,7 @@ def construct_tree(itsParents, itsChildren, nodes):
                     continue
 
     # Generate the corresponding Bayesian network structure
-    # DotExporter(root).to_picture("BN_chow_liu_tree.pdf")
+    DotExporter(root).to_picture("BN_chow_liu_tree.pdf")
     
     # Get all possible path starting from root
     whole_tree = list(PreOrderIter(root, filter_=lambda node: node.is_leaf))
@@ -117,7 +121,7 @@ def writeDice(query):
             reduced.append(n)
 
     # print("subtree: ",subtree)
-    with open("pgmpyCPD.json","r") as f:
+    with open("dmv/pgmpyCPD.json","r") as f:
         cpds = json.load(f)
         
     # write dice file
@@ -176,13 +180,13 @@ def writeDice(query):
         f.write("".join(dice))
 
 if __name__ == "__main__":
-    with open("true_cardinality.json","r") as j:
+    with open("dmv/true_cardinality.json","r") as j:
         true_cardinalities = json.load(j)
 
-    with open("queries.json","r") as j2:
+    with open("dmv/queries.json","r") as j2:
         queries = json.load(j2)
 
-    with open("attr_range.json","r") as j3:
+    with open("dmv/attr_range.json","r") as j3:
         attr_range = json.load(j3)
 
     latencies = []
@@ -190,6 +194,7 @@ if __name__ == "__main__":
     for i in range(len(queries)): 
         # len(queries)
         query = queries[i]
+        
         for q in query.keys():
             attr = query[q]
             limit = attr_range[q]
@@ -203,9 +208,12 @@ if __name__ == "__main__":
             if len(attr) == limit:
                 query.pop(q)
 
-        for q in query.keys():
+        kk = list(query.keys()).copy()
+        for q in kk:
             if query[q] == []:
-                query.remove(q)
+                print("q: ", q)
+                print("query: ", query)
+                del query[q]
 
         print(f"Predicting cardinality for query {i}: {query}")
         vals = list(query.values())
@@ -215,7 +223,8 @@ if __name__ == "__main__":
         output = subprocess.getoutput("~/Desktop/dice/Dice.native bayescard_gr.dice").split("\n")[1]
         line = re.findall("[0-9\.]+", output)
         prob = float(line[-1].strip())
-        cardinality_predict = prob * 2458285
+        # census total rows = 2458285, dmv total rows = 11575483
+        cardinality_predict = prob * 11575483
         card_end_t = perf_counter()
 
         latency_ms = (card_end_t-card_start_t) * 1000
@@ -242,3 +251,8 @@ if __name__ == "__main__":
         print(f"q-error {j}% percentile is {np.percentile(q_errors, j)}") # np.percentile uses same algorithm as percentile formula in Excel
     print(f"average latency is {np.mean(latencies)} ms")
     
+    with open("dice_q_errors_GR.json","w+") as qq:
+        json.dump(q_errors, qq, indent=2)
+
+    with open("dice_latencies_GR.json","w+") as t:
+        json.dump(latencies, t, indent=2)
