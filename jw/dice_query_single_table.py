@@ -49,44 +49,23 @@ def writeDice(query, attr_range, dataset, relation, gr="no", bitwidth="no"):
             for c in cpds[n]:
                 cpd.append([str(cc) for cc in c])
             
+            if bitwidth=="yes":
+                leng = len(cpd).bit_length()
+            else:
+                leng = len(cpd)
             line = ["let " + n + " = "]
-            for index in range(len(cpd)):
-                c = cpd[index]
-                if index == len(cpd)-2: # last two
+            for idx in range(len(cpd)):
+                c = cpd[idx]
+                if idx == len(cpd)-2: # last two
                     if len(cpd) == 2:
-                        if bitwidth=="yes":
-                            leng = len(cpd).bit_length()
-                            idx = index.bit_length()
-                        else:
-                            leng = len(cpd)
-                            idx = index
                         line.append("if (" + par + " == int(" + str(leng) + "," + str(idx) + ")) then (discrete(" + ",".join(c) + ")) else (discrete(" + ",". join(cpd[-1]) + "))")
                     else:
-                        if bitwidth=="yes":
-                            leng = len(cpd).bit_length()
-                            idx = index.bit_length()
-                        else:
-                            leng = len(cpd)
-                            idx = index
                         line.append("(if (" + par + " == int(" + str(leng) + "," + str(idx) + ")) then (discrete(" + ",".join(c) + ")) else (discrete(" + ",". join(cpd[-1]) + "))")
                     break
-                elif index == 0: # start
-                    if bitwidth=="yes":
-                        leng = len(cpd).bit_length()
-                        idx = index.bit_length()
-                    else:
-                        leng = len(cpd)
-                        idx = index
+                elif idx == 0: # start
                     line.append("if (" + par + " == int(" + str(leng) + "," + str(idx) + ")) then (discrete(" + ",".join(c) + ")) else ")
-                else:
-                    if bitwidth=="yes":
-                        leng = len(cpd).bit_length()
-                        idx = index.bit_length()
-                    else:
-                        leng = len(cpd)
-                        idx = index
+                else: 
                     line.append("(if (" + par + " == int(" + str(leng) + "," + str(idx) + ")) then (discrete(" + ",".join(c) + ")) else ")
-                
             line.append(")" * (len(cpd)-2) + " in\n")
             dice.append("".join(line))
         
