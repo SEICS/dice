@@ -1,0 +1,34 @@
+[
+  [
+    "cast_info_cast_info_nn",
+    "cast_info_role_id"
+  ],
+  [
+    "title_mul_movie_info_movie_id",
+    "title_kind_id"
+  ],
+  [
+    "title_mul_movie_info_movie_id",
+    "title_production_year"
+  ],
+  [
+    "title_mul_movie_info_movie_id",
+    "title_mul_movie_info_idx_movie_id"
+  ],
+  [
+    "title_mul_cast_info_movie_id_nn",
+    "title_mul_movie_info_movie_id"
+  ],
+  [
+    "cast_info_role_id",
+    "title_mul_cast_info_movie_id_nn"
+  ],
+  [
+    "title_mul_movie_info_movie_id",
+    "title_mul_movie_keyword_movie_id"
+  ],
+  [
+    "title_mul_movie_info_movie_id",
+    "title_mul_movie_companies_movie_id"
+  ]
+]

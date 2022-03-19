@@ -1,0 +1,12 @@
+{
+  "Revocation_Indicator": 2,
+  "State": 50,
+  "County": 52,
+  "Body_Type": 43,
+  "Registration_Class": 46,
+  "Model_Year": 63,
+  "Scofflaw_Indicator": 2,
+  "Suspension_Indicator": 2,
+  "Record_Type": 3,
+  "Fuel_Type": 8
+}
