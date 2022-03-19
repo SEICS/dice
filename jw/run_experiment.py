@@ -10,6 +10,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset', default='dmv', help='Which dataset to be used')
     parser.add_argument('--gr', default='no', help='if applying graph reduction?')
+    parser.add_argument('--bitwidth', default='no', help='compile syntax with bit width or with value?')
     # log level
     parser.add_argument('--log_level', type=int, default=logging.DEBUG)
 
@@ -29,12 +30,12 @@ if __name__ == '__main__':
     #dealing with imdb job
     if args.dataset == 'imdb':
         if args.gr == 'yes' or args.gr == 'no':
-            evaluate_cardinality_imdb(args.dataset, args.gr)
+            evaluate_cardinality_imdb(args.dataset, args.gr, args.bitwidth)
         else:
             print("Incorrect input. Please input yes or no.")
     elif args.dataset == 'census' or args.dataset == 'dmv':
         if args.gr == 'yes' or args.gr == 'no':
-            evaluate_single_table(args.dataset, args.gr)
+            evaluate_single_table(args.dataset, args.gr, args.bitwidth)
         else:
             print("Incorrect input. Please input yes or no.")
     else:

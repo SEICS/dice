@@ -54,6 +54,7 @@ def writeDice(query, attr_range, dataset, relation, gr="no", bitwidth="no"):
                 c = cpd[index]
                 if index == len(cpd)-2: # last two
                     if len(cpd) == 2:
+                        print(bitwidth)
                         if bitwidth=="yes":
                             leng = len(cpd).bit_length()
                             idx = index.bit_length()
