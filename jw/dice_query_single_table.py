@@ -50,7 +50,7 @@ def writeDice(query, attr_range, dataset, relation, gr="no", bitwidth="no"):
                 cpd.append([str(cc) for cc in c])
             
             if bitwidth=="yes":
-                leng = len(cpd).bit_length()
+                leng = (len(cpd)-1).bit_length()
             else:
                 leng = len(cpd)
             line = ["let " + n + " = "]
@@ -75,12 +75,15 @@ def writeDice(query, attr_range, dataset, relation, gr="no", bitwidth="no"):
     lr = []
     for attr in attrs:
         vv = query[attr]
+        vv_bitwidth = attr_range[attr]
+        if bitwidth == "yes":
+            vv_bitwidth = (vv_bitwidth-1).bit_length()
         if len(vv) == 1:
-            lr.append("(" + attr + " == int(" + str(attr_range[attr]) + "," + str(vv[0]) + ")" + ")")
+            lr.append("(" + attr + " == int(" + str(vv_bitwidth) + "," + str(vv[0]) + ")" + ")")
         else:
             lrr = []
             for v in vv:
-                lrr.append("(" + attr + " == int(" + str(attr_range[attr]) + "," + str(v) + ")" + ")")
+                lrr.append("(" + attr + " == int(" + str(vv_bitwidth) + "," + str(v) + ")" + ")")
             lr.append("(" + "||".join(lrr) + ")")
     l += "&&".join(lr)
     l += ") then (discrete(1.0, 0.0)) else (discrete(0.0, 1.0)) in\nq"
@@ -136,9 +139,13 @@ def evaluate_single_table(dataset, gr, bitwidth):
         print(f"predicting query no {i}: {real_query[i].strip()}")
         writeDice(query=query, attr_range=attr_range, dataset=dataset, relation=relation, gr=gr, bitwidth=bitwidth)
         card_start_t = perf_counter()
-        output = subprocess.getoutput(f"~/Desktop/dice/Dice.native bayescard_{dataset}.dice").split("\n")[1]
+        if bitwidth=="yes":
+            output = subprocess.getoutput(f"dune exec dice bayescard_{dataset}.dice").split("\n")[4]
+        else:
+            output = subprocess.getoutput(f"~/Desktop/dice/Dice.native bayescard_{dataset}.dice").split("\n")[1]
         line = re.findall("[0-9\.]+", output)
         prob = float(line[-1].strip())
+        print("prob: ", prob)
         if dataset == 'census':
             nrows = 2458285
         elif dataset == 'dmv':
