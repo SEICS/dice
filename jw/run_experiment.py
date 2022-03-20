@@ -30,7 +30,7 @@ if __name__ == '__main__':
     #dealing with imdb job
     if args.dataset == 'imdb':
         if args.gr == 'yes' or args.gr == 'no':
-            evaluate_cardinality_imdb(args.dataset, args.gr, args.bitwidth)
+            evaluate_cardinality_imdb(args.dataset, args.gr)
         else:
             print("Incorrect input. Please input yes or no.")
     elif args.dataset == 'census' or args.dataset == 'dmv':

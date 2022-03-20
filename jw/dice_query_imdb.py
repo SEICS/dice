@@ -155,7 +155,8 @@ def evaluate_cardinality_imdb(dataset, gr):
 
     latencies = []
     q_errors = []
-    for i in range(len(ensemble_queries)):
+    for i in range(0,1):
+        # len(ensemble_queries)
         q = ensemble_queries[i]
         nrows = q[0]
         features = q[1:]
