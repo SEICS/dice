@@ -136,7 +136,7 @@ def evaluate_single_table(dataset, gr, bitwidth):
             if query[q] == []:
                 del query[q]
 
-        print(f"predicting query no {i}: {real_query[i].strip()}")
+        print(f"predicting query no {i}: {queries[i]}")
         writeDice(query=query, attr_range=attr_range, dataset=dataset, relation=relation, gr=gr, bitwidth=bitwidth)
         card_start_t = perf_counter()
         if bitwidth=="yes":

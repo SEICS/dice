@@ -2,12 +2,13 @@ import os
 import subprocess, re
 import json
 import time
-import json 
+import json
+from apt import ProblemResolver 
 import numpy as np
 from sklearn import datasets
 from chow_liu import tree_structure, construct_tree, findSingleNodePath
 
-def writeDice(query, bn_index, attr_range, dataset, fanout_attrs=[], name="no_join", gr="no"): # write single BN and corresponding query
+def writeDice(query, bn_index, attr_range, dataset, fanout_attrs=[], name="no_join", gr="no", bitwidth="no"): # write single BN and corresponding query
     with open(f"imdb/relation_{bn_index}.json","r") as r:
         relation = json.load(r)
         relation = [tuple(lis) for lis in relation]
@@ -51,9 +52,11 @@ def writeDice(query, bn_index, attr_range, dataset, fanout_attrs=[], name="no_jo
             for c in cpds[n]:
                 cpd.append([str(cc) for cc in c])
                    
-            leng = len(cpd)
+            if bitwidth=="yes":
+                leng = (len(cpd)-1).bit_length()
+            else:
+                leng = len(cpd)
             line = ["let " + n + " = "]
-            
             for idx in range(len(cpd)):
                 c = cpd[idx]
                 if idx == len(cpd)-2: # last two
@@ -77,14 +80,17 @@ def writeDice(query, bn_index, attr_range, dataset, fanout_attrs=[], name="no_jo
         lr = []
         for attr in attrs:
             vv = query[attr]
+            vv_bitwidth = attr_range[attr]
+            if bitwidth == "yes":
+                vv_bitwidth = (vv_bitwidth-1).bit_length()
             if isinstance(vv, int):
-                lr.append("(" + attr + " == int(" + str(attr_range[attr]) + "," + str(vv) + ")" + ")")
+                lr.append("(" + attr + " == int(" + str(vv_bitwidth) + "," + str(vv) + ")" + ")")
             elif len(vv) == 1:
-                lr.append("(" + attr + " == int(" + str(attr_range[attr]) + "," + str(vv[0]) + ")" + ")")
+                lr.append("(" + attr + " == int(" + str(vv_bitwidth) + "," + str(vv[0]) + ")" + ")")
             else:
                 lrr = []
                 for v in vv:
-                    lrr.append("(" + attr + " == int(" + str(attr_range[attr]) + "," + str(v) + ")" + ")")
+                    lrr.append("(" + attr + " == int(" + str(vv_bitwidth) + "," + str(v) + ")" + ")")
                 lr.append("(" + "||".join(lrr) + ")")
 
         l += "&&".join(lr)
@@ -105,14 +111,17 @@ def writeDice(query, bn_index, attr_range, dataset, fanout_attrs=[], name="no_jo
         lr = []
         for attr in attrs:
             vv = query[attr]
+            vv_bitwidth = attr_range[attr]
+            if bitwidth == "yes":
+                vv_bitwidth = (vv_bitwidth-1).bit_length()
             if isinstance(vv, int):
-                lr.append("(" + attr + " == int(" + str(attr_range[attr]) + "," + str(vv) + ")" + ")")
+                lr.append("(" + attr + " == int(" + str(vv_bitwidth) + "," + str(vv) + ")" + ")")
             elif len(vv) == 1:
-                lr.append("(" + attr + " == int(" + str(attr_range[attr]) + "," + str(vv[0]) + ")" + ")")
+                lr.append("(" + attr + " == int(" + str(vv_bitwidth) + "," + str(vv[0]) + ")" + ")")
             else:
                 lrr = []
                 for v in vv:
-                    lrr.append("(" + attr + " == int(" + str(attr_range[attr]) + "," + str(v) + ")" + ")")
+                    lrr.append("(" + attr + " == int(" + str(vv_bitwidth) + "," + str(v) + ")" + ")")
                 lr.append("(" + "||".join(lrr) + ")")
 
         l += "&&".join(lr)
@@ -143,7 +152,7 @@ def get_fanout_values(fanout_attrs, fanouts):
                 res = np.outer(res, fanouts[i]).reshape(-1)
         return res.reshape(fanout_attrs_shape)
 
-def evaluate_cardinality_imdb(dataset, gr):
+def evaluate_cardinality_imdb(dataset, gr, bitwidth):
     with open("imdb/imdb_true_cardinality.json","r") as j:
         true_cardinalities = json.load(j)
 
@@ -155,7 +164,8 @@ def evaluate_cardinality_imdb(dataset, gr):
 
     latencies = []
     q_errors = []
-    for i in range(len(ensemble_queries)):
+    for i in range(0,1):
+        # len(ensemble_queries)
         q = ensemble_queries[i]
         nrows = q[0]
         features = q[1:]
@@ -167,6 +177,7 @@ def evaluate_cardinality_imdb(dataset, gr):
                 # iterating through each sub BN query in an ensemble query
                 bn_index = f["bn_index"]
                 fanout_attrs = f["expectation"]
+                print("fanout_attrs: ", fanout_attrs)
                 query = rename(f["query"])
                 n_distincts = np.prod([1*num for val in list(f["n_distinct"].values()) for num in val])
                 
@@ -184,30 +195,47 @@ def evaluate_cardinality_imdb(dataset, gr):
                 if fanout_attrs:
                     fanout_attrs = [fa.replace(".","_") for fa in fanout_attrs]
                     name = "probsq"
-                    writeDice(query=query, bn_index=bn_index, attr_range=attr_range, dataset=dataset, name=name, gr=gr)
-                    output = subprocess.getoutput(f"~/Desktop/dice/Dice.native bayescard_{dataset}_{name}.dice").split("\n")[1]
+                    writeDice(query=query, bn_index=bn_index, attr_range=attr_range, dataset=dataset, name=name, gr=gr, bitwidth=bitwidth)
+                    if bitwidth=="yes":
+                        output = subprocess.getoutput(f"dune exec dice bayescard_{dataset}_{name}.dice").split("\n")[4]
+                    else:
+                        output = subprocess.getoutput(f"~/Desktop/dice/Dice.native bayescard_{dataset}_{name}.dice").split("\n")[1]
                     line = re.findall("[0-9\.]+", output)
                     probsQ = float(line[-1].strip()) * n_distincts
+                    print("probsQ: ", probsQ)
 
                     name = "probsqf"
-                    writeDice(query=query, bn_index=bn_index, attr_range=attr_range, dataset=dataset, name=name, fanout_attrs=fanout_attrs, gr=gr)
-                    output2 = subprocess.getoutput(f"~/Desktop/dice/Dice.native bayescard_{dataset}_{name}.dice").split("\n")[1:-2]
+                    writeDice(query=query, bn_index=bn_index, attr_range=attr_range, dataset=dataset, name=name, fanout_attrs=fanout_attrs, gr=gr, bitwidth=bitwidth)
+                    if bitwidth=="yes":
+                        output2 = subprocess.getoutput(f"dune exec dice bayescard_{dataset}_{name}.dice").split("\n")[4:]
+                        print("join output: ", output2)
+                    else:
+                        output2 = subprocess.getoutput(f"~/Desktop/dice/Dice.native bayescard_{dataset}_{name}.dice").split("\n")[1:-2]
                     for_reshape = tuple([int(elem)+1 for elem in re.findall("[0-9\.]+", output2[-1].split("\t")[0])])
                     probsQF = np.array([float(o.split("\t")[1]) for o in output2]).reshape(for_reshape)
                     probsQF = probsQF / np.sum(probsQF)
                     fanout_attrs_shape = tuple([len(fanouts[i]) for i in fanout_attrs])
                     probsQF = probsQF.reshape(fanout_attrs_shape)
                     prob = np.sum(probsQF * get_fanout_values(fanout_attrs=fanout_attrs, fanouts=fanouts)) * probsQ
+                    print("exp: ", prob)
                 else:
-                    writeDice(query=query, bn_index=bn_index, attr_range=attr_range, dataset=dataset, gr=gr)
-                    output = subprocess.getoutput(f"~/Desktop/dice/Dice.native bayescard_{dataset}_no_join.dice").split("\n")[1]
+                    writeDice(query=query, bn_index=bn_index, attr_range=attr_range, dataset=dataset, gr=gr, bitwidth=bitwidth)
+                    
+                    if bitwidth=="yes":
+                        print("yes")
+                        output = subprocess.getoutput(f"dune exec dice bayescard_{dataset}_no_join.dice").split("\n")[4]
+                        print("no join output: ",output)
+                    else:
+                        output = subprocess.getoutput(f"~/Desktop/dice/Dice.native bayescard_{dataset}_no_join.dice").split("\n")[1]
                     line = re.findall("[0-9\.]+", output)
                     prob = float(line[-1].strip()) * n_distincts
+                    print("prob: ", prob)
 
                 if f["inverse"]:
                     ensemble_prob *= (1/prob)
                 else:
                     ensemble_prob *= prob
+                print("ensemble_prob: ",ensemble_prob)
         except:
             # this query itself is invalid or it is not recognizable by the learnt BN
             continue
